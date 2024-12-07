@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # coding: utf-8
 
-from utils.scrap import process_speechs, scrap_speechs
+from utils.scrap import scrap_speechs
 
 import argparse
 import logging as lg
@@ -56,6 +56,9 @@ def parse_arguments():
                         help=('When building the vocabulary of ngrams, ignore',
                               'terms that have a document frequency strictly',
                               'lower than the given threshold'))
+    parser.add_argument("--topic", type=str, default="Bitcoin")
+    parser.add_argument("--waiter", type=int, default=10, 
+                        help=("How many time you want to wait when logging the page (the more you wait, the more articles you have)"))
     return parser.parse_args()
 
 
@@ -70,38 +73,26 @@ def main():
     output = args.output
     ngrams = args.ngrams
     min_df = args.min_df
+    topic = args.topic
+    waiter = args.waiter
 
     if (scrap == False) and (prep == False):
         lg.warning('Please indicate an action: --scrap or --prep')
 
-    if scrap:
-        try:
-            if file_name == None:
-                raise Warning('You must indicate a file name')
-        except Warning as e:
-            lg.warning(e)
+    try:
+        if file_name == None:
+            raise Warning('You must indicate a file name')
+    except Warning as e:
+        lg.warning(e)
+    else:
+        if len(years) > 2:
+            raise ValueError('You cannot enter more than two dates')
         else:
-            if len(years) > 2:
-                raise ValueError('You cannot enter more than two dates')
-            else:
-                if check_availability(file_name):
-                    scrap_speechs(lang, years, file_name, True)
-                else:
-                    lg.info(('Please relaunch the program with an available',
-                             'file name.'))
-
-    if prep:
-        try:
-            if inputs == None:
-                raise Warning('You must indicate a file to process')
-        except Warning as e:
-            lg.warning(e)
-        else:
-            if check_availability(output):
-                process_speechs(inputs, output, ngrams, min_df, True)
+            if check_availability(file_name):
+                scrap_speechs(lang, years, file_name, True, topic, waiter)
             else:
                 lg.info(('Please relaunch the program with an available',
-                         'file name.'))
+                            'file name.'))
 
 
 if __name__ == '__main__':
