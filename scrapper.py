@@ -56,7 +56,7 @@ def parse_arguments():
                         help=('When building the vocabulary of ngrams, ignore',
                               'terms that have a document frequency strictly',
                               'lower than the given threshold'))
-    parser.add_argument("--topic", type=str, default="Bitcoin")
+    parser.add_argument("--topic", type=str, default="")
     parser.add_argument("--waiter", type=int, default=10, 
                         help=("How many time you want to wait when logging the page (the more you wait, the more articles you have)"))
     return parser.parse_args()
@@ -76,23 +76,8 @@ def main():
     topic = args.topic
     waiter = args.waiter
 
-    if (scrap == False) and (prep == False):
-        lg.warning('Please indicate an action: --scrap or --prep')
+    scrap_speechs(lang, years, file_name, True, topic, waiter)
 
-    try:
-        if file_name == None:
-            raise Warning('You must indicate a file name')
-    except Warning as e:
-        lg.warning(e)
-    else:
-        if len(years) > 2:
-            raise ValueError('You cannot enter more than two dates')
-        else:
-            if check_availability(file_name):
-                scrap_speechs(lang, years, file_name, True, topic, waiter)
-            else:
-                lg.info(('Please relaunch the program with an available',
-                            'file name.'))
 
 
 if __name__ == '__main__':
