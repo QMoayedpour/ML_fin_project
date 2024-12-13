@@ -9,6 +9,7 @@ import re
 import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 import requests
+import pdfplumber
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -17,10 +18,33 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from urllib3.connectionpool import log as urllibLogger
+import requests
+from pdfminer.high_level import extract_text
+from io import BytesIO
 
 
 lg.basicConfig(level=lg.INFO)
 
+
+def extract_text_from_pdf(url):
+    # Télécharger le PDF depuis l'URL
+    response = requests.get(url)
+
+    if response.status_code != 200:
+        return "Error"
+
+    with open('temp.pdf', 'wb') as f:
+        f.write(response.content)
+
+    with pdfplumber.open('temp.pdf') as pdf:
+        text = ''
+        for page in pdf.pages:
+            text += page.extract_text()
+    
+    os.remove("temp.pdf")
+
+    print(text)
+    return text
 
 def create_webdriver(driver_path=None, active_options=False):
     if active_options:
@@ -51,7 +75,7 @@ def scroll(pager, speed=50, last_pos=0):
 def get_page_source(url, pager, scrolling=False, close=False, waiter=60):
     lg.info('Launching driver')
     pager.get(url)
-    print(url)
+
     if scrolling:
         scroll(pager)
 
@@ -86,7 +110,8 @@ def get_urls(url, page_source):
     for dt, ct in zip(dates, contents):
         all_lang = ct.find_all("a")[1:]
         for lang in all_lang:
-
+            if 'href' not in lang.attrs:
+                continue
             d[index] = {'language': lang['lang'] if 'lang' in lang.attrs else "en",
                         'url': url_root + lang["href"],
                         'date': dt.text}
@@ -127,23 +152,65 @@ def get_content_article(article):
             content.append(paragraph.text.strip())
     return ' '.join(content)
 
+
+def extraire_texte_pdf_miner(lien):
+        try:
+            reponse = requests.get(lien)
+            reponse.raise_for_status()
+
+            fichier_pdf = BytesIO(reponse.content)
+            texte = extract_text(fichier_pdf)
+            return texte
+
+        except requests.exceptions.RequestException as e:
+            return f"Erreur lors du téléchargement du PDF : {e}"
+        except Exception as e:
+            return 'Error'
+        
+
 def scrap_content(links, pause=0, balise='main'):
     content = []
     for link in tqdm(links):
-
-        response = requests.get(link)
-        soup = BeautifulSoup(response.text, 'lxml')
-
-        main_section = soup.find('main')
-        
-        if main_section:
-
-            paragraphs = main_section.find_all('p')
-            full_text = "\n".join([p.get_text(strip=True) for p in paragraphs])
-            content.append(full_text)
-        else:
-            print(f"Pas de balise <main> trouvée sur {link}")
+<<<<<<< HEAD
+        #time.sleep(5)
+        if link[-3:] == "pdf":
+            content.append(extract_text_from_pdf(link))
+            continue
+        try:
+            response = requests.get(link)
+        except:
             content.append("Error")
+            continue
+        soup = BeautifulSoup(response.text, 'lxml')
+=======
+
+        if '.pdf' in link.lower():
+            text = extraire_texte_pdf_miner(link)
+            content.append(text)
+            print(text)
+>>>>>>> d9ec9cf (modif apportées)
+
+        else:
+            
+
+            try:
+                response = requests.get(link)
+            except:
+                content.append('Error')
+                continue
+
+            soup = BeautifulSoup(response.text, 'lxml')
+
+            main_section = soup.find('main')
+            
+            if main_section:
+
+                paragraphs = main_section.find_all('p')
+                full_text = "\n".join([p.get_text(strip=True) for p in paragraphs])
+                content.append(full_text)
+            else:
+                print(f"Pas de balise <main> trouvée sur {link}")
+                content.append("Error")
         
         time.sleep(pause)
     

@@ -76,6 +76,7 @@ def main():
     topic = args.topic
     waiter = args.waiter
 
+    
     scrap_speechs(lang, years, file_name, True, topic, waiter)
 
 
