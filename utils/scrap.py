@@ -10,6 +10,7 @@ import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 import requests
 import pdfplumber
+import pdfplumber
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -74,6 +75,7 @@ def scroll(pager, speed=50, last_pos=0):
 def get_page_source(url, pager, scrolling=False, close=False, waiter=60):
     lg.info('Launching driver')
     pager.get(url)
+
 
     if scrolling:
         scroll(pager)
