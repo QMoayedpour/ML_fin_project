@@ -9,6 +9,7 @@ import re
 import spacy
 from sklearn.feature_extraction.text import TfidfVectorizer
 import requests
+import pdfplumber
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -21,6 +22,26 @@ from urllib3.connectionpool import log as urllibLogger
 
 lg.basicConfig(level=lg.INFO)
 
+
+def extract_text_from_pdf(url):
+    # Télécharger le PDF depuis l'URL
+    response = requests.get(url)
+
+    if response.status_code != 200:
+        return "Error"
+
+    with open('temp.pdf', 'wb') as f:
+        f.write(response.content)
+
+    with pdfplumber.open('temp.pdf') as pdf:
+        text = ''
+        for page in pdf.pages:
+            text += page.extract_text()
+    
+    os.remove("temp.pdf")
+
+    print(text)
+    return text
 
 def create_webdriver(driver_path=None, active_options=False):
     if active_options:
@@ -51,7 +72,7 @@ def scroll(pager, speed=50, last_pos=0):
 def get_page_source(url, pager, scrolling=False, close=False, waiter=60):
     lg.info('Launching driver')
     pager.get(url)
-    print(url)
+
     if scrolling:
         scroll(pager)
 
@@ -130,8 +151,15 @@ def get_content_article(article):
 def scrap_content(links, pause=0, balise='main'):
     content = []
     for link in tqdm(links):
-
-        response = requests.get(link)
+        #time.sleep(5)
+        if link[-3:] == "pdf":
+            content.append(extract_text_from_pdf(link))
+            continue
+        try:
+            response = requests.get(link)
+        except:
+            content.append("Error")
+            continue
         soup = BeautifulSoup(response.text, 'lxml')
 
         main_section = soup.find('main')
