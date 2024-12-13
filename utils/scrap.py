@@ -27,7 +27,6 @@ lg.basicConfig(level=lg.INFO)
 
 
 def extract_text_from_pdf(url):
-    # Télécharger le PDF depuis l'URL
     response = requests.get(url)
 
     if response.status_code != 200:
@@ -171,7 +170,6 @@ def extraire_texte_pdf_miner(lien):
 def scrap_content(links, pause=0, balise='main'):
     content = []
     for link in tqdm(links):
-<<<<<<< HEAD
         #time.sleep(5)
         if link[-3:] == "pdf":
             content.append(extract_text_from_pdf(link))
@@ -182,13 +180,6 @@ def scrap_content(links, pause=0, balise='main'):
             content.append("Error")
             continue
         soup = BeautifulSoup(response.text, 'lxml')
-=======
-
-        if '.pdf' in link.lower():
-            text = extraire_texte_pdf_miner(link)
-            content.append(text)
-            print(text)
->>>>>>> d9ec9cf (modif apportées)
 
         else:
             
