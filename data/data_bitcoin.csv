@@ -1,9 +1,989 @@
 language,url,date,content
-en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Summary_of_feedback_on_Fit_in_the_ecosystem.en.pdf,12 December 2024,Error
-en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Update_on_work_on_methodology_for_holding_limit_calibration.en.pdf,12 December 2024,Error
-en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Annex_to_preliminary_methodology_for_holding_limit_calibration.en.pdf,12 December 2024,Error
-en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Update_on_Experimentation.en.pdf,12 December 2024,Error
-en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Timeline_of_2025_ERPB_sessions.en.pdf,12 December 2024,Error
+en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Summary_of_feedback_on_Fit_in_the_ecosystem.en.pdf,12 December 2024,"Feedback on Fit in the
+Ecosystem consultation
+14th ERPB technical
+session on digital euro
+10 December 2024 Digital euro project8 ERPB member associations provided inputs on the Fit in the
+Ecosystem consultation launched on 1 October
+3 questions asked:
+How could digital euro impact
+Intermediaries
+EU players' strategic
+relevance?
+How could digital euro be as
+cost-effective as
+possible?
+Merchants
+How could digital euro
+Consumers impact EU players'
+business model?
+2 www.ecb.europa.eu ©How could digital euro
+impact EU players'
+strategic relevance?Intermediaries
+Main points shared Actions
+ [Non-bank PSP] Digital euro will increase competition in the payment sector and
+increase intermediaries' bargaining power  Inputs addressed in the dedicated
+Competition session (13 November
+ [Non-bank PSP] International players could use the digital euro as entry point to 2024)
+develop other services
+ [Non-bank PSP] Digital euro should focus on complementing existing European
+payment solutions, offering them a platform and tools to expand reachability
+ Co-badging will be addressed in the
+dedicated Synergies session (12
+ [Bank PSP] Digital euro might impact national and regional card schemes, as co- December 2024)
+badged cards could lose their edge with mandatory merchant acceptance
+ [Bank PSP] Introducing both instant payments and a digital euro simultaneously could
+present challenges for the financial industry1
+ Inputs will be addressed in the dedicated
+Synergies session (12 December 2024)
+ [Bank PSP] Existing components for alias lookup, fraud and dispute management,
+etc. should be reused
+4 www.ecb.europa.eu ©
+1. Inst. Payments regulation will be implemented by mid 2025Merchants and consumers
+Main points shared Actions
+ [Merchants] Digital euro, especially if focused on key use cases, will be a clear
+advantage for merchants due to increased competition in the market
+ Inputs addressed in the dedicated
+Competition session (13 November
+2024) and will be further assessed in a
+ [Merchants] PSPs will have significant opportunities to go pan-European and offer dedicated workstream for merchants
+(starting in the first half of 2025)
+additional services (e.g., data-driven, real-time payment data lending services, etc.)
+ [Merchants] Integration into trusted solutions, like MBWay, Wero, and Bizum, reaps  Inputs will be addressed in the dedicated
+synergies Synergies session (12 December 2024)
+ [Consumers] Digital euro represents a counterbalance to decline of card schemes and  Inputs addressed in the dedicated
+an alternative to wallets which are poorly regulated and may infringe on GDPR
+Competition session (13 November
+2024) and will be further assessed in a
+ [Consumers] Digital euro will be a true pan-European solution that puts European PSPs dedicated workstream for consumers
+(starting in the first half of 2025)
+at the center of payments
+5 www.ecb.europa.eu ©How could digital euro be
+as cost-effective as
+possible?Intermediaries
+Main points shared Actions
+ [Non-bank PSP] Cost synergies are key without compromising the quality  Inputs will be addressed in the dedicated Synergies
+of the service (both on the front-end and back-end) session (12 December 2024)
+ Dependence on legislative process; technical
+ [Bank PSP] Offline and online functionalities should be considered
+analysis to be addressed in the dedicated Business
+separately and online should be pursued first
+model session (3 February 2025)
+ Inputs will be addressed in the dedicated Synergies
+ [Bank PSP] Banks should be given the flexibility to independently develop
+session (12 December 2024), however a uniform UX
+their own front-end user experiences and strategies for the digital euro
+is needed
+ [Bank PSP] A highly detailed level of regulation and rules may limit  Inputs addressed in the dedicated Competition
+opportunities for competition and innovation session (13 November 2024)
+ [Bank PSP] To maintain an efficient payment process, it would be beneficial
+ ECB has provided technical analysis on provision of
+for each digital euro account to be linked to a single commercial account,
+multiple accounts1
+preferably within the same institution
+ Aim to reuse parts of existing standards wherever
+ [Bank PSP] Digital euro should re-use instant payments and its
+feasible is being considered and the point will be
+infrastructure
+addressed in the Synergies session (12 December)
+ Dependence on legislative process; technical
+ [Bank PSP] Intermediaries should be given the flexibility to decide whether to
+analysis to be addressed in the dedicated
+integrate into their own applications or opt for the ECB application
+Synergies session (12 December 2024)
+1 Technical note on the provision of multiple
+digital euro accounts to individual end users 7 www.ecb.europa.eu ©Merchants and consumers
+Main points shared Actions
+ [Consumers] Cost-effectiveness should not be at expense of e.g., fraud prevention and
+safety
+ Inputs will be addressed in the
+ [Merchants] Digital euro needs to work alongside and complement (legacy) payment
+dedicated Synergies session (12
+rails, accounting systems and banking infrastructure
+December 2024)
+ [Merchants] It would be beneficial to have a straightforward and standardized
+integration process for PSPs and merchants.
+8 www.ecb.europa.eu ©How could digital euro
+impact EU players'
+business model?Intermediaries (1/2)
+Main points shared Actions
+ [Non-bank PSP] In the digital euro design, support of multiple wallets is
+ ECB has provided technical analysis on provision of
+important, so that users can have different payment offerings and added
+multiple accounts1
+value without being ""captured"" by their existing bank
+ [Bank PSP] While digital euro is not intended to replace
+ Inputs will be addressed in the dedicated Synergies
+cash/international card schemes, there is a possibility that it might
+session (12 December 2024)
+impact existing EU payment schemes.
+ Holding limits will be designed with consideration for
+ [Non-bank PSP] It would be beneficial if the design choices for the digital
+preserving freedom of access to a public good like
+euro, such as holding limits, were primarily guided by its intended use
+central bank money and ensuring a “best in class”
+as a means of payment
+user experience when paying with the digital euro
+ [Bank PSP] Cost of infrastructure and running cost should be factored in  Inputs will be addressed in the dedicated Business
+the compensation model session (3 February 2025)
+1 Technical note on the provision of multiple digital euro
+accounts to individual end users
+10 www.ecb.europa.eu ©Intermediaries (2/2)
+Main points shared Actions
+ Dependence on legislative process;
+ [Bank PSP] Addressing open funding could be beneficial by considering a detailed comments will be addressed in
+compensation model that involves a 6-corner approach rather than a 4-corner the dedicated Business model session
+(3 February 2025)
+ [Bank PSP] Compensation model should avoid that wallet providers integrating
+digital euro may charge any fees to distributing PSPs  Dependence on legislative process;
+technical analysis to be addressed in the
+dedicated Business model session (3
+ [Bank PSP] PSPs should be allowed to charge a proportional fixed annual fee per user February 2025)
+wallet
+ Dependence on legislative process;
+ [Bank PSP] It may be helpful to reevaluate the cost-based benchmark, as estimating technical analysis to be addressed in the
+expected costs can be challenging dedicated Synergies session (12
+December 2024)
+11 www.ecb.europa.eu ©Merchants
+Main points shared Actions
+ [Merchants] As no scheme and processing fees will be charged, merchant fee caps
+ Dependence on legislative process;
+should stay well below 50% of comparable means of payments
+technical analysis will be further
+assessed in a dedicated workstream
+for merchants (starting in the first half of
+ [Merchants] Consideration could be given to a fee-per-transaction model that waives
+2025)
+fees for merchants on low-value transactions
+12 www.ecb.europa.eu ©"
+en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Update_on_work_on_methodology_for_holding_limit_calibration.en.pdf,12 December 2024,"ECB-PUBLIC
+Preliminary
+methodology for
+calibrating holding
+limits
+ERPB meeting – Item 3
+10 December 2024 Digital euro projectPurpose of today’s discussion
+- The ECB is working to develop a methodology for setting digital euro holding
+limits, balancing user experience with monetary policy and financial stability
+implications.
+- This presentation provides a description of the tools being developed
+and aims to collect feedback from ERPB members on these tools.
+Nota bene: this presentation and its annex have not been adopted or endorsed
+by ECB decision making bodies and therefore any views expressed shall not,
+under any circumstances, be regarded as an official position of the ECB. This
+content is intended solely to facilitate discussions and feedback by experts from
+the ERPB associations to be provided to the ECB digital euro project team.
+2 www.ecb.europa.eu ©ECB-PUBLIC
+Our framework of analysis
+Framework based on the objectives set out in Article 15.1 of the draft digital euro regulation
+2. Ensure
+1. Ensure usability as a
+effectiveness of
+means of payment
+monetary policy
+Holding
+limit
+3. Ensure financial stability
+Individual holding limits should be established taking into account the public good nature of the digital
+euro and proportionality principle (cfr. draft Regulation): restrictions should be necessary, appropriate and
+the least intrusive to maintain financial stability and support the effectiveness of monetary policy
+3 www.ecb.europa.eu ©ECB-PUBLIC Block 1: Usability
+Relevant factors* and interlinkages for the
+Block 2: Monetary policy
+calibration of the holding limit
+Block 3: Fin. stability & banking supervision
+Stance &
+Digital euro holdings
+Central bank rate controllability
+(poss. scenarios)
+Payment needs balance sheet,
+operations & risk
+Banknotes
+Credit supply
+Preferences on
+pre-funding /
+Deposits
+reverse waterfall
+Banks’ reaction
+Banks’
+Role of deposit Liquidity ratios
+liquidity
+remuneration
+position Liability re-
+composition
+Profitability
+Evolution of
+demand for
+*This is a summary of the factors extensively described in the slides presented at the 11 April ERPB meeting, including
+banknotes
+the suggestions subsequently proposed by the ERPB and summarized at the 16 July ERPB meeting.
+4 www.ecb.europa.eu ©ECB-PUBLIC
+Anticipating the environment in which the digital euro will be
+introduced
+The methodology requires specifying different scenarios to assess the impact of
+the digital euro. Key considerations to incorporate into the analysis are:
+• Anticipating how the financial sector might change, including how
+digitalisation is reshaping it (e.g., change in deposit stickiness, instant
+payments, stablecoins, etc)
+• Evaluating the usage of cash going forward
+• Anticipating the liquidity environment, making the methodology robust to
+future evolutions (e.g. to less ample central bank liquidity)
+5 www.ecb.europa.eu ©ECB-PUBLIC
+Common assumptions
+Hypothetical digital euro introduction under different holding limits and scenarios
+• Range of holding limits
+1. As per SSM data collection bucketing for retail deposits in Significant
+Institutions (SIs)
+• Scenarios for deposit outflows (as also suggested by ERPB members)
+1. Business-as-usual: contained deposit outflows – digital euro as a means of
+payment
+2. Flight-to-safety: system-wide outflows due to a loss of confidence in the
+banking system (unrelated to digital euro and abstracting from crisis reaction by
+ECB)
+Nota bene: Idiosyncratic bank run already feasible and even faster due to digitalisation, so not
+specifically modelled given limited marginal impact of digital euro
+6 www.ecb.europa.eu ©ECB-PUBLIC
+Scenarios for deposit outflows
+Sample: Q1 2024, 2009 banks, of which 112 SIs and 1897 LSIs* from SSM supervisory data**
+and ad-hoc SSM Distribution of Retail Deposits data for 98 SIs (i.e., those with retail deposits)
+Deposit outflows under business-as-usual
+Predicted based on digital euro demand estimates/scenarios (building on Lambert, et al., 2024, to be further refined
+with data points coming from Block 1, see slide 9)
+• SIs: estimated average digital euro holdings multiplied by number of unique eligible sight depositors and adjusted for
+depositor balances (by bucket, based on SSM data)
+• LSIs: projected share of deposit outflows of small market lenders (to be further refined with ongoing LSI data collection)
+Deposit outflows under flight-to-safety
+Maximum possible outflows of retail sight deposits
+• SIs: maximum eligible retail sight deposits based on current bucketed balances and adjusted for (est.) multiple accounts
+and shared accounts (by bucket, based on SSM data)
+• LSIs: maximum share of deposit outflows possible of small market lenders (to be further refined with LSI data)
+*LSIs = Less Significant Institutions
+7 www.ecb.europa.eu ©
+**COREP/FINREPECB-PUBLIC
+Block 1: Usability – objectives and tools
+Study users’ ability to make payments with digital euro, i.e. cover their
+consumption, under different holding limits
+We use survey data from the Household Finance and Consumption survey to analyse the
+consumption distribution (and complement this with analysis on income, following feedback by
+ERPB members)
+We follow a two-step approach
+1. We include a) “amount spent on consumer goods and services” (covering utilities, food,
+childcare, and health care expenses); b) “expenses on trips and holidays” and “amount
+given as alimony, charity etc.” (each adjusted in terms of monthly and individual
+expenditures).*
+2. We additionally include additional funds available for individual consumption and add
+them to step 1 (to include additional potential use cases for digital euro spending).
+* Work in progress: rent, loan repayments, and mortgage payments currently not included - expected to significantly increase individual
+monthly consumption.
+8 www.ecb.europa.eu ©ECB-PUBLIC
+Block 1: Usability – objectives and tools (cont.)
+Investigate user preferences, esp. in terms of pre-funding over reverse waterfall
+(including heterogeneity across users)
+We conduct ad-hoc survey on users’ behaviour and their money demand to tackle structural
+difficulties in comprehending user behaviour.
+Critical (as also noted by ERPB members) but challenging, due to the inability to directly
+compare with traditional payment methods and the fact that user behaviour is not only
+heterogeneous but also evolves over time:
+• results can be used to cross-check the monthly expenses figures and provide further
+data points that can help model the scenarios
+Survey is representative of the euro area population: individuals aged 18+, targeting 1,000
+individuals per euro area country (with three countries involving 500 respondents).
+Respondents are provided with basic information about the digital euro, helping participants
+provide informed responses.
+9 www.ecb.europa.eu ©ECB-PUBLIC
+Block 2: Monetary policy – objectives and tools
+Analyse impact of digitalisation on demand for banknotes, so to understand
+possible substitution between the two
+We analyse key trends (using macro data and the SPACE* survey) to inform about the ""likely""
+value of conversion of banknotes into digital euro. Key aspects to consider:
+• So far, progressive and moderate return of banknotes to bank deposits due to the
+increasing digitalisation of transactions.
+• Potential future impact of digitalisation on storage of value (e.g. role of stablecoins),
+complex to assess.
+We use a Bayesian vector autoregression (BVAR) model to identify key drivers of banknote
+holdings growth:
+– looking at factors that are typically linked to storage of value: opportunity costs (-),
+uncertainty (+), liquidity (+)
+– And considering that storage of value accounts for most of the banknote stock.
+*SPACE = Study on Payment Attitudes of Consumers in the Euro area
+10 www.ecb.europa.eu ©ECB-PUBLIC
+Block 2: Monetary policy – objectives and tools (cont.)
+Analyse impact on loan supply due to bank balance sheet adjustments
+We look at two channels
+– changes in funding costs and profitability (input obtained from block 3)
+– evolution of reserves
+We adapt models currently used from regular policy work on loan supply
+– Macroeconometric time series model (BVAR) estimated on the euro area (e.g. quarterly
+GDP, inflation, loans to non-financial corporations, change in credit standards (BLS),
+etc).
+– Dynamic Stochastic General Equilibrium models calibrated on the euro area (e.g. based
+on Darracq Pariès et al., 2011)
+– Microeconometric estimates
+Derive estimates robust to model and estimation uncertainty, complemented by meta-
+analysis of the literature
+11 www.ecb.europa.eu ©ECB-PUBLIC
+Block 2: Monetary policy – objectives and tools (cont.)
+Analyse impact stemming from the creation of new liquidity-absorbing autonomous
+factor on relative position of euro short-term rate (€STR) in the rate corridor
+We evaluate €STR implications across projected Eurosystem balance sheet scenarios,
+accounting for the ECB’s new operational framework announced in March 2024
+We estimate paths for banks’ (excess) liquidity holdings after deposits outflows (see
+common assumptions).
+Impact depends on the amount of liquidity:
+– provided via structural operations (see discussion in slide 5)
+– demanded by banks via borrowing through standard refinancing operations (i.e. short-
+term central bank funding). Borrowing is estimated conditional on liquidity already
+provided though structural operations (see above)
+The impact also depends on the specific parameters and assumptions used in the scenarios
+12 www.ecb.europa.eu ©ECB-PUBLIC
+Block 2: Monetary policy – objectives and tools (cont.)
+Analyse collateral availability and scarcity for given deposit outflows
+We inquire (as also requested by ERPB members) whether banks hold enough unencumbered
+eligible assets after haircuts to obtain, in response to deposit outflows,
+• central bank funding simulated as described in Block 3 (bank level, using supervisory data)
+• excess liquidity holdings estimated as described on previous slide (aggregate level)
+We assess if collateral encumbrance could lead to collateral scarcity, by:
+• analysing collateral / government bond encumbrance on aggregate, assuming all deposit
+outflows are replaced by secured funding
+• determining prevailing Eurosystem footprint in government bond markets - assets previously
+held/pledged - using detailed market data;
+• We compare encumbrance level and new Eurosystem footprint against historical benchmarks.
+13 www.ecb.europa.eu ©ECB-PUBLIC
+Block 3: Financial stability and banking supervision - objectives
+and tools
+Analyse the impact on banks’ liquidity
+We simulate banks’ reaction to deposit outflows using a constrained balance sheet optimization
+model (Meller and Soons, 2023)
+Dataset:
+• We use bank-level data for 112 SIs and 1897 LSIs from COREP/FINREP,
+• We combine data with SSM-administered data for 98 SIs on deposit distribution and internal
+liquidity target, to be further augmented with LSIs data in the future (see slide 7)
+For a given outflow of retail deposits, a bank chooses its balance sheet adjustment with the aim of
+maximizing profits by solving:
+subject to bank specific constraints and interbank market clearing conditions
+14 www.ecb.europa.eu ©ECB-PUBLIC
+Block 3: Financial stability and banking supervision - objectives
+and tools (cont.)
+Analyse the impact on banks’ liquidity
+Abstracting from other potential responses, under the model, the bank chooses between :
+Reserve constraint
+Liquidity constraints
+draw down its own reserves, if reserves are not depleted and bank
+is not constrained by minimum Liquidity Coverage Ratio (LCR) and
+Collateral constraint
+Net Stable Funding Ratio (NSFR) requirements
+obtain (un)secured market funding if not collateral or LCR/NSFR “reserve
+constrained and there is excess liquidity in the system redistribution”
+obtain additional reserves via central bank funding
+15 www.ecb.europa.eu ©ECB-PUBLIC
+Block 3: Financial stability and banking supervision - objectives
+and tools (cont.)
+The model allows for testing various types of scenarios where different assumptions on
+the different parameters can be assessed:
+• e.g., regarding deposit outflows, liquidity preferences, interbank market frictions, funding prices,
+monetary policy
+Model output consists of bank-level adjusted balance sheets after digital euro demand
+is satisfied. It is used
+• To assess the distributional impact on individual banks and business models across various
+dimensions, including liquidity metrics (LCR, NSFR, liquidity survival period), SREP indicators,
+and net interest income
+• used as an input for the analyses in Block 2
+16 www.ecb.europa.eu ©ECB-PUBLIC
+Block 3: Financial stability and banking supervision - objectives
+and tools (cont.)
+Analyse impact of digital euro on banks’ profitability, in particular on Net
+Interest Income (NII)
+NII impact estimated based on volume adjustments and interest rate for each balance
+sheet item:
+r
+Δq
+Balance sheet
+NII computation ΔΠ
+optimization model
+NII impact is defined, at bank level (as also suggested by ERPB members), as the
+change in interest income minus the change in interest expenses:
+with Π = profits, r = rates and q =
+quantities
+𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎𝑎 𝑙𝑙𝑖𝑖𝑎𝑎𝑙𝑙𝑖𝑖𝑙𝑙𝑖𝑖𝑎𝑎𝑖𝑖𝑎𝑎𝑎𝑎
+ΔП = �𝑟𝑟𝑖𝑖 Δ𝑞𝑞𝑖𝑖 − �𝑟𝑟𝑗𝑗 Δ𝑞𝑞𝑗𝑗
+𝑖𝑖 𝑗𝑗
+17 www.ecb.europa.eu ©ECB-PUBLIC
+Conclusion – way forward
+1. Further sensitivity analyses to account for the the environment in which the digital euro
+will be introduced
+2. Incorporation of SSM data on retail deposits and liquidity targets from LSIs
+3. Refinement of scenarios / assumptions through ad-hoc survey on consumers’
+behaviour
+4. Benchmarking of the results (e.g., impact on credit supply due to outflows) against
+historical episodes (e.g. usual fluctuations in deposit volumes vs bank runs) and
+standard SSM toolkits used by supervisors
+5. Development of a holistic approach to bring everything together across the 3 blocks
+6. Incorporate the internal and external feedback to fine tune the models.
+18 www.ecb.europa.eu ©ECB-PUBLIC
+ERPB technical session members are invited to:
+Provide feedback on the technical presentation by 28 January 2025:
+We specifically invite reflections on the:
+• common assumptions and calculation of the scenarios (slides 6 and 7)
+• tools used in the preliminary methodology for the various building blocks (for
+example, we would welcome feedback on slides 8 to 17)
+• the way forward (slide 18)
+• detailed annex
+including reasoning for any adjustments, additions, or deletions. You may also provide
+suggestions on data sources.
+19 www.ecb.europa.eu ©ECB-PUBLIC
+Interaction with market stakeholders in 2024 and next
+sessions
+December ERPB meeting February ERPB meeting
+Preliminary methodology
+July session with banks’ liquidity experts
+Seminar on (i) SSM data collection; and (ii) mechanics of ECB model
+Offer for sector-
+specific ad-hoc
+July ERPB meeting expert sessions,
+specifically tailored for
+Summaryof written feedback and follow-up
+Banks PSPs, non-
+Banks PSPs,
+ERPB written
+Merchants, and
+feedback Consumers.
+ERPB’s members’ comments on
+factors considered Please signal your
+interest via email by
+April ERPB meeting 20/12/2024
+Factors and outlook on
+engagement
+20 www.ecb.europa.eu ©ECB-PUBLIC
+Thank you"
+en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Annex_to_preliminary_methodology_for_holding_limit_calibration.en.pdf,12 December 2024,"WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+2024-12-10 – ERPB - Annex to preliminary methodology for holding limit
+calibration
+As part of the digital euro project, the ECB is working with experts from the national central banks of
+the Eurosystem and national competent authorities to develop a methodology for setting digital euro
+holding limits, balancing user experience with monetary policy and financial stability implications. This
+work will allow the ECB to determine the factors to be considered in the calibration, and to propose a
+methodology to calibrate the digital euro holding limits. It includes consultation with market participants
+through the European Retail Payments Board (ERPB members). This annex to ECB presentation
+delivered on 10 December 20241 provides a detailed description of the tools being developed for Blocks
+1 and 3 and aims to collect feedback from ERPB members on these tools.
+This working document has not been adopted or endorsed by ECB decision making bodies and
+therefore any views expressed shall not, under any circumstances, be regarded as an official position
+of the ECB. This content is intended solely to facilitate discussions and feedback by experts from the
+ERPB associations to be provided to the ECB digital euro project team.
+Block 1: Usability - tools in detail
+Consumption and income analysis
+The consumption analysis encompasses an assessment of consumption patterns both at the euro area
+level and on a country-specific basis, capturing national heterogeneity. This analysis relies on data from
+the HFCS2, which collects detailed household-level data on finances and consumption. In detail, the
+analysis of the consumption distribution is conducted using a two-step approach.
+In the first step, key expenditure categories such as spending on consumer goods and services (e.g.,
+utilities, food, childcare, and healthcare), travel, holidays, and regular payments (e.g., alimony and
+charitable donations) are considered. These expenditures are adjusted to reflect monthly individual
+spending. In the second step, the funds available for individual consumption are added to the
+consumption calculated in the first step. These funds are primarily represented by the available balance,
+defined as the difference between monthly income and monthly consumption computed in step one.
+Rent and mortgage payments are excluded from the available balance. This step helps account for
+additional potential use cases for digital euro spending that would not be captured otherwise. For
+instance, additional potential use cases for digital euro spending could include subscriptions to private
+services, such as streaming platforms, as well as expenditures on leisure activities beyond holidays
+and travel, like entertainment, recreational sports, or cultural events. The inclusion of such category is
+ultimately leading to a more comprehensive estimate of potential monthly liquidity needs for
+consumption. Currently, the analysis excludes rent, loan repayments, and mortgage payments due to
+1See ECB, Update on work on methodology for holding limit calibration – agenda item 3.
+2 See ECB, Household Finance and Consumption Survey (HFCS).
+1WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+data quality and data limitations. If included, these expenses would be expected to significantly increase
+the calculated individual monthly consumption.
+A complementary dimension of the analysis, which has also been examined in other jurisdictions3 and
+introduced based on the feedback by ERPB members, relates to the feasibility of individuals to receive
+their income directly into their digital euro account. Understanding whether holding limits could
+potentially interfere with individuals’ ability to seamlessly receive, store, and use their income is another
+element for further refining a holding limit that aligns with users' needs. The analysis of the income
+distribution incorporates all key variables related to various income sources collected from the HFCS.
+In calculating the individual monthly income, the analysis takes into account economically active
+household members, including pensioners receiving any form of income. This monthly income is then
+converted into net income by applying the appropriate income tax rates and social security
+contributions, using data from both the HFCS dataset and the OECD. The resulting net monthly income
+is further supplemented by the balance carried over from the previous month, which is defined as the
+difference between monthly income and monthly consumption, as calculated earlier in step one.
+Importantly, the balance from the previous month excludes rent and mortgage payments due to data
+quality and data limitations.
+Ad-hoc survey on users’ behaviour and their money demand
+The analysis is augmented by conducting a new dedicated survey on user behaviour regarding holding
+digital euro, performed by an external service provider. This approach aims to tackle structural
+difficulties in comprehending user behaviour, which is critical but challenging to predict due to the
+inability to directly compare with traditional payment methods (such as physical cash or cashless
+payments using commercial bank money) and the fact that user behaviour is not only heterogeneous
+but also evolves over time. While exercises like this survey have structural limitations due to the inherent
+difficulty in capturing preferences over hypothetical questions about something not yet fully known to
+users (such as the digital euro), the findings could be used to refine the methodology. For instance, its
+results can be used to cross-check the monthly expenses figures and provide further data points that
+can help model the scenarios.
+Methodologically, the survey is representative of the euro area population and has been tested in a pilot
+to ensure participants fully understand the questions. The survey is designed to be concise (20-minutes
+duration) and incudes the provisions of stimuli. Respondents are provided with basic information about
+the digital euro to ensure they are well-equipped to answer all questions. This information is shared
+gradually, allowing for easier comprehension. Sufficient context and stimulus material is offered to help
+participants provide informed responses. This includes context on the rationale behind the holding limit.
+Finally, the service provider employs scenario-based descriptions to transit from abstract theoretical
+questions about unfamiliar experiences to more relatable experiences.
+The overall survey is composed of 21 relatively simple questions and recruits a representative sample
+of participants aged 18 and above, targeting 1,000 individuals per euro area country, with three
+countries (Malta, Luxembourg, and Cyprus) involving 500 respondents.
+3 See Bank of England and HM Treasury (2023), pp. 80-81.
+2WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+Block 3: Financial stability and banking supervision - tools in detail
+The balance sheet optimization model closely follows Meller and Soons (2023), which was previously
+published as an ECB Occasional Paper. This more detailed model description can be found in Meller
+and Soons (2024).
+Model environment
+The model considers a one-period model economy with many profit-maximising banks, each differing
+in their balance sheets: their level of reserve holdings, deposits, collateral, and liquidity risk profiles.
+Each bank re-optimises its balance sheet under the expectation that an amount of its retail
+deposits will
+𝑖𝑖
+be converted to digital euros. Banks can respond to digital euro demand i ∆n
+𝐷𝐷
+t𝑖𝑖hree general
+ways, each with a different impact on their constraints: 1) by drawing down their current central bank
+reserves or banknotes, 2) by increasing central bank borrowing, and 3) by obtaining additional central
+bank reserves on the interbank market.4
+On the interbank market, each bank i can choose from a variety of funding options offered by bank ,
+either unsecured or secured against unencumbered High-Quality Liquid Asset (HQLA) : short-term
+𝑗𝑗
+secured ( ) funding, medium-term secured ( and ) funding (e.g. repos) and long-
+𝑘𝑘
+term secu 𝑆𝑆r 𝑆𝑆ed 𝑆𝑆𝑖𝑖 𝑖𝑖(𝑖𝑖 ) funding (e.g. covered bond 𝑀𝑀s) 𝑆𝑆; 𝑆𝑆s𝑖𝑖h𝑖𝑖𝑖𝑖ort-term 𝑀𝑀 𝑆𝑆u 𝐿𝐿n 𝑆𝑆s𝑖𝑖e𝑖𝑖𝑖𝑖cured ( ) funding (e.g. money
+market funding) 𝐿𝐿;
+𝑆𝑆
+m 𝑆𝑆e𝑖𝑖𝑖𝑖d𝑖𝑖ium-term unsecured ( and ) funding (e.g. com 𝑆𝑆m 𝑆𝑆𝑖𝑖e𝑖𝑖rcial paper); and long-
+term unsecured ( funding. For the purp 𝑀𝑀os 𝑆𝑆e𝑖𝑖𝑖𝑖s of o 𝑀𝑀ur
+𝐿𝐿
+m 𝑆𝑆𝑆𝑆o𝑖𝑖d𝑖𝑖el, short-term funding is considered to have
+a maturity less tha 𝐿𝐿n 𝑆𝑆𝑖𝑖 𝑖𝑖o )ne-month, medium term funding has a maturity between one and six months (
+or between six and twelve months ( , and funding has a maturity that exceeds twelve months.
+𝑀𝑀𝑆𝑆)
+Moreover, secured funding is defin 𝑀𝑀ed
+𝐿𝐿
+𝑆𝑆to
+)
+be se 𝐿𝐿c 𝑆𝑆𝑖𝑖u𝑖𝑖red by a HQLA, , while unsecured funding is not.
+These differences in maturity and collateral are chosen because of the different impacts they have on
+𝑘𝑘
+a bank’s regulatory liquidity ratios.
+There are six types of central bank funding options included in the model, where it is assumed that the
+central bank provides as much liquidity as banks demand. First, bank can obtain short-term secured
+( ) and long-term secured ( ) central bank funding against HQLA collateral . Second,
+𝑖𝑖
+b 𝑆𝑆a 𝑆𝑆n 𝑆𝑆k
+𝑆𝑆 𝐵𝐵
+c𝑖𝑖𝑖𝑖an also obtain central bank
+𝐿𝐿
+f 𝑆𝑆u 𝑆𝑆n 𝑆𝑆di 𝐵𝐵n𝑖𝑖g𝑖𝑖 against non-HQLA central bank eligible collatera 𝑘𝑘l , at both
+maturities ( ). Finally, as a last resort, the model allows for any residual need for
+𝑖𝑖 𝑙𝑙
+liquidity to b 𝑆𝑆e
+𝑆𝑆
+s 𝑆𝑆a 𝐵𝐵ti𝑖𝑖s𝑖𝑖 f aie nd
+d
+b 𝐿𝐿y
+𝑆𝑆
+𝑆𝑆a
+𝐵𝐵
+s𝑖𝑖p𝑖𝑖ecial form of central bank lending which is secured against collateral that
+is currently not eligible. This funding option is also available at both maturities ( , ).
+These final funding options are included with the aim of modelling the possible
+𝑆𝑆
+𝑆𝑆“r 𝑆𝑆e 𝑆𝑆s 𝑆𝑆id 𝐵𝐵u𝑖𝑖al”
+𝑆𝑆
+𝑆𝑆n 𝐿𝐿e 𝑆𝑆e 𝑆𝑆d 𝐵𝐵f𝑖𝑖or
+unconventional monetary policy operations when a digital euro is introduced. It is only available at a
+penalty rate and is only used if a bank is unable to obtain liquidity otherwise.
+4 As explained in Adalid et al. (2022), there is a fourth option which we do not consider as the added value is limited: the bank
+could sell assets. A bank can only obtain additional reserves if it sells asset to another bank or a client of another bank. The
+subsequent redistribution of reserves and impacts on the various constraints (collateral, LCR, NSFR) are very similar to those
+resulting from secured interbank market funding. Therefore, explicitly incorporating this adjustment option does not yield
+additional insights.
+3WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+The impact of digital euro demand on banks’ cost of funding and net interest income
+What happens to bank i’s funding costs? The introduction of a digital euro is assumed to lead to a
+decrease in bank i’s retail deposits, . Consequently, bank i might need to raise reserves by
+increasing its interbank or central bank f 𝛥𝛥u 𝐷𝐷n𝑖𝑖ding. This leads to a change in bank i’s cost of funding,
+∆𝑆𝑆Fi:
+𝐷𝐷 𝑆𝑆𝑆𝑆𝑆𝑆 𝑀𝑀𝑆𝑆𝑆𝑆 𝑀𝑀𝑀𝑀𝑆𝑆𝑆𝑆 𝑀𝑀𝑆𝑆𝑆𝑆
+∆𝑆𝑆𝐹𝐹𝑖𝑖 =𝑟𝑟𝑖𝑖 ∗𝛥𝛥𝐷𝐷𝑖𝑖+ 𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∑𝑖𝑖∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖 +𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∑𝑖𝑖∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖 +𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∑𝑖𝑖∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+𝑟𝑟𝑖𝑖 ∗
+𝑆𝑆𝑆𝑆 𝑀𝑀𝑆𝑆 𝑀𝑀𝑀𝑀𝑆𝑆 𝑀𝑀𝑆𝑆 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆
+∑𝑖𝑖∑𝑖𝑖∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖+𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝑀𝑀𝑆𝑆𝑖𝑖𝑖𝑖 +𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝑀𝑀𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖 +𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖+ 𝑟𝑟𝑖𝑖 ∗
+𝑀𝑀𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 , 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑀𝑀𝑆𝑆𝑆𝑆𝑆𝑆 𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆
+∑𝑖𝑖∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝐿𝐿𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+ 𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖 + 𝑟𝑟𝑖𝑖 ∗∑𝑖𝑖∆𝐿𝐿𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖 +𝑟𝑟𝑖𝑖 ∗
+𝑆𝑆𝑆𝑆𝑀𝑀𝑆𝑆𝑆𝑆𝑆𝑆
+w∆𝑆𝑆h𝑆𝑆e𝑆𝑆re𝑆𝑆 𝑆𝑆𝐵𝐵 𝑖𝑖d+en𝑟𝑟𝑖𝑖otes th∗e ∆re𝑆𝑆t𝑆𝑆a𝐿𝐿il𝑆𝑆 d𝑆𝑆e𝐵𝐵p𝑖𝑖osit rate paid by bank i. The rate is paid by the borrowing bank i and
+𝐷𝐷 𝑠𝑠
+received by the lending bank j for an interbank funding instrument
+𝑟𝑟𝑖𝑖 𝑟𝑟𝑖𝑖
+. 𝑠𝑠∈{𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖, 𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖, 𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖, 𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖,
+𝑆𝑆W𝑆𝑆h𝑖𝑖𝑖𝑖a,t 𝑀𝑀ha𝑆𝑆𝑖𝑖p𝑖𝑖𝑖𝑖p,en𝑀𝑀s𝐿𝐿 t𝑆𝑆o𝑖𝑖𝑖𝑖 𝑖𝑖b,a𝐿𝐿n𝑆𝑆k𝑖𝑖 𝑖𝑖i’}s income? As a result of digital euro-induced deposit outflows, bank i might
+need to draw down its own reserves to intermediate digital euro demand of its own depositors and/or
+might be in the position to lend to other banks on the interbank market (if it still has sufficient reserves
+and a liquidity buffer). The resulting change in bank i’s net interest income, , equals:
+∆𝐼𝐼𝐼𝐼𝑆𝑆𝑖𝑖
+𝑅𝑅 𝑆𝑆𝑆𝑆𝑆𝑆 𝑀𝑀𝑆𝑆𝑆𝑆 𝑀𝑀𝑀𝑀𝑆𝑆𝑆𝑆
+∆𝐼𝐼𝐼𝐼𝑆𝑆𝑖𝑖 =𝑟𝑟 ∗∆𝑅𝑅𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗�∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗�∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗�∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+𝑀𝑀𝑆𝑆𝑆𝑆 𝑆𝑆𝑆𝑆 𝑀𝑀𝑆𝑆 𝑀𝑀𝑀𝑀𝑆𝑆 𝑀𝑀𝑆𝑆
++ �𝑟𝑟𝑖𝑖 ∗�∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗∆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗∆𝑀𝑀𝑆𝑆𝑖𝑖𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗∆𝑀𝑀𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖+�𝑟𝑟𝑖𝑖 ∗∆𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖,
+where is the rate𝑖𝑖 paid by 𝑖𝑖the central b𝑖𝑖ank on excess𝑖𝑖 reserves held a𝑖𝑖s central bank dep𝑖𝑖osits. The
+𝑅𝑅
+change in central bank reserves is denoted by and is made up of the change in own reserves due
+𝑟𝑟
+to bank i’s own digital euro intermediation and t ∆h 𝑅𝑅e𝑖𝑖 change in own reserves lent out on the interbank
+market.
+The bank optimisation problem
+This section specifies bank ’s optimisation problem. For a given outflow of retail deposits, a bank
+chooses its balance sheet adjustment with the aim of maximizing profits by solving:
+𝑖𝑖
+su∆𝑅𝑅b𝑖𝑖,j∆e𝑆𝑆𝑆𝑆c𝑆𝑆𝑖𝑖t𝑖𝑖𝑖𝑖 ,t∆o𝑀𝑀𝑆𝑆 b𝑆𝑆𝑖𝑖𝑖𝑖a𝑖𝑖,∆n𝑀𝑀k𝑀𝑀𝑆𝑆 𝑆𝑆i𝑖𝑖’𝑖𝑖s𝑖𝑖,∆ 𝑀𝑀c𝑆𝑆o𝑆𝑆𝑖𝑖𝑖𝑖n𝑖𝑖,∆s𝑆𝑆t𝑆𝑆r𝑖𝑖𝑖𝑖a,∆𝑀𝑀in𝑆𝑆𝑖𝑖t𝑖𝑖s,∆𝑀𝑀 (𝑀𝑀1𝑆𝑆𝑖𝑖𝑖𝑖),∆-𝑀𝑀(𝑆𝑆6𝑖𝑖𝑖𝑖 ),∆ 𝑆𝑆a𝑆𝑆𝑆𝑆n𝑆𝑆𝑆𝑆d𝑖𝑖𝑖𝑖 ,∆in𝑀𝑀𝑆𝑆t𝑆𝑆em𝑆𝑆𝑆𝑆ra𝑖𝑖𝑖𝑖bx,∆a𝑆𝑆𝑆𝑆n𝑆𝑆𝑆𝑆k𝑖𝑖𝑖𝑖 ∆m𝑀𝑀𝑆𝑆𝑆𝑆a𝑆𝑆𝑖𝑖r𝑖𝑖,k∆𝑆𝑆e𝑆𝑆𝑆𝑆t𝑆𝑆 𝑆𝑆c𝑆𝑆l𝑖𝑖e,∆𝑆𝑆a𝑆𝑆𝑀𝑀r𝑆𝑆i𝑆𝑆n𝑆𝑆g𝑖𝑖,∆ 𝑆𝑆c𝑆𝑆𝑆𝑆o𝑖𝑖𝑖𝑖𝑖𝑖n,∆d𝑀𝑀𝑆𝑆it𝑆𝑆i𝑖𝑖o𝑖𝑖𝑖𝑖,n∆𝑀𝑀s𝑆𝑆𝑆𝑆 𝑖𝑖(𝑖𝑖𝑖𝑖7,∆ )𝑆𝑆-𝑆𝑆(𝑖𝑖𝑖𝑖1,∆𝑀𝑀1𝑆𝑆)𝑖𝑖𝑖𝑖.,∆ 𝑀𝑀 𝑆𝑆𝑖𝑖𝑖𝑖 (∆𝐼𝐼𝐼𝐼𝑆𝑆𝑖𝑖−∆𝑆𝑆𝐹𝐹𝑖𝑖)
+∆𝐷𝐷𝑖𝑖 = ∆𝑅𝑅𝑖𝑖−����∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖�+∆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖�–
+𝑖𝑖 𝑖𝑖
+�(∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+ ∆𝐿𝐿𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖)− �(Δ𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+ Δ𝐿𝐿𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖)− ∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖− ∆𝑆𝑆𝑆𝑆𝐿𝐿𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖 (1)
+𝑖𝑖 𝑖𝑖
+𝑅𝑅𝑖𝑖−𝑀𝑀𝑅𝑅𝑅𝑅∗ ∆𝐷𝐷𝑖𝑖+∆𝑅𝑅𝑖𝑖−�(�(∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖)+∆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖)≥0(2)
+𝑖𝑖 𝑖𝑖
+�(∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+ +∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖)+ ∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖 ≤(1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑖𝑖)∗ 𝑎𝑎𝑖𝑖,𝑖𝑖 ∀ 𝑘𝑘
+𝑖𝑖
+(3)
+∆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+ ∆𝐿𝐿𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖 ≤(1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑐𝑐𝑎𝑎𝑖𝑖)∗ 𝑎𝑎𝑐𝑐𝑎𝑎𝑖𝑖,𝑖𝑖 ∀ 𝑙𝑙 (4)
+𝐿𝐿𝑆𝑆𝑅𝑅𝑖𝑖 ≥100%+𝐿𝐿𝑆𝑆𝑅𝑅 𝑐𝑐𝑎𝑎𝑢𝑢𝑢𝑢𝑢𝑢𝑟𝑟𝑖𝑖 (5)
+𝐼𝐼𝑆𝑆𝐹𝐹𝑅𝑅𝑖𝑖 ≥100%+𝐼𝐼𝑆𝑆𝐹𝐹𝑅𝑅 𝑐𝑐𝑎𝑎𝑢𝑢𝑢𝑢𝑢𝑢𝑟𝑟𝑖𝑖 (6)
+Constraint (1) means that each bank must account for all its deposit outflow either by depleting its own
+central bank excess reserves ( or those newly obtained on the interbank market or from the central
+bank. Constraint (2) ensures ∆th 𝑅𝑅a𝑖𝑖t
+)
+the bank does not draw down or lendmore excess central bank
+4WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+reserves than it currently owns. The term “ ” reflects that bank’s excess reserves increase as
+those reserves held for the purpose of th 𝑀𝑀e 𝑅𝑅m 𝑅𝑅in ∗i m ∆u 𝐷𝐷m𝑖𝑖 reserve requirement (MRR) for those deposits
+which are withdrawn are then considered excess reserves. Since constraint (2) must hold for all banks,
+it also ensures that no more reserves are used by the banking sector than available on aggregate. If a
+bank uses reserves to meet its costumers’ demand for digital euro, irrespective of whether they are its
+own reserves or those borrowed from another bank on the interbank market, there is a decline in the
+available excess reserves in the system.
+Constraints (3) – (4) represent the collateral constraints (see also below). It is denoted with the
+market value of unencumbered HQLA collateral of bank that can be pledged on the interbank m 𝑎𝑎𝑖𝑖a𝑖𝑖r ket
+or at the central bank and denotes the market value of unencumbered non-HQLA central bank
+𝑘𝑘 𝑖𝑖
+eligible collateral of bank 𝑎𝑎( 𝑐𝑐w 𝑎𝑎h𝑖𝑖𝑖𝑖ich is not accepted on the interbank market). Constraint (3) reflects that
+banks have a limited stock of each category of HQLA collateral suited to obtaining secured market and
+𝑙𝑙 𝑖𝑖
+central bank funding. Collateral in secured lending is subject to a haircut. To easy notation, It is assumed
+in the model presentation that haircuts are the same on the interbank market and at the central bank.
+However, when the model is run, these haircuts will in fact differ. The haircuts are defined such that a
+haircut of 0.05 (5%) means that €100 of collateral would provide €95 in secured funding. Constraint (4)
+reflects that each bank only has a limited stock of each category of non-HQLA central bank eligible
+collateral. HQLA from non-HQLA collateralised central bank funding it are separated as it allows to
+judge how important it is for the central bank to offer a broad collateral framework in case of a digital
+euro introduction.
+Regulatory liquidity ratios
+Banks must meet two regulatory liquidity requirements: the Liquidity Coverage Ratio (LCR) and the Net
+Stable Funding Ratio (NSFR). The LCR mandates that the market value of a bank’s HQLA, which can
+be monetised on short notice, exceeds its expected net outflows within a 30-day stress period. Expected
+outflows are calculated by multiplying the liabilities of a bank with a liability specific “run off rate”. HQLA
+holdings are based on the market value of HQLAs adjusted by an “LCR factor” which can be interpreted
+as a regulatory haircut on assets to account for market/liquidation risks. The NSFR ensures that the
+bank maintains sufficient Available Stable Funding (ASF) compared to its Required Stable Funding
+(RSF). The NSFR is calculated based on “factors reflecting supervisory assumptions assigned to the
+bank’s sources of funding and to its exposures, with these factors reflecting the liquidity characteristics
+of each category of instruments” (BIS, 2014). In practice, a bank’s ASF is calculated as the sum of the
+bank’s liabilities multiplied by a regulatory “ASF factor”, where unsecured, short-term funding obtains a
+0% factor and funding above one year a factor of 100%. A bank’s RSF is the sum of the market value
+of a bank’s (encumbered) asset holdings multiplied by an “RSF factor”, which is 0% for reserves, the
+most liquid asset, and 100% for all assets that are encumbered for a period of one year or more.
+Constraints (6) and (7) of the bank’s optimisation problem ensure that each bank continues to meet its
+LCR and NSFR requirements and possibly sustain a bank-specific voluntary liquidity. The regulatory
+requirements constrain both, the bank’s set of feasible borrowing and the set of feasible lending options.
+Regarding the latter, a bank is not able to act as a lender on the interbank market if this would increase
+its liquidity risk beyond its preferred level.
+5WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+An important input in our model is the extent to which banks are willing and allowed and willing to
+deplete their liquidity buffers. In Q1 2024, the observed LCR and NSFR values in our sample range
+from just above the regulatory minimum (100%) to more than ten times the regulatory minimum. The
+observed variation of liquidity buffers likely reflects persistent heterogeneous liquidity risk preferences.
+It is likely that banks with high voluntary liquidity buffers would prefer to maintain relatively high buffers
+following a digital euro introduction.
+Rather than assuming that all banks would be willing to reduce their liquidity buffer by the same absolute
+amount, we assume that in the business-as-usual scenario SIs are only willing to deplete their liquidity
+buffers to their internal liquidity targets, as reported in the SSM data collection. Since for LSIs we lack
+the data, we assume that they are willing to deplete the same share of their current liquidity buffers as
+the SIs with the business model of small market lenders. In the flight-to-safety scenario, we assume
+that banks are willing to deplete their liquidity buffers until the regulatory minimum.
+Liquidity Coverage Ratio
+The new LCR, after balance-sheet re-optimisation, is calculated as
+𝐻𝐻�𝐻𝐻𝐿𝐿𝐴𝐴𝚤𝚤+ ∆𝐻𝐻𝐻𝐻𝐿𝐿𝐴𝐴𝑖𝑖
+𝐿𝐿𝑆𝑆𝑅𝑅𝑖𝑖 =
+where the variables with a circumflex 𝐸𝐸re[𝑛𝑛p𝑢𝑢re𝑎𝑎� s𝑜𝑜e𝑎𝑎n𝑎𝑎t𝑢𝑢 t𝑙𝑙h𝑜𝑜e𝑜𝑜 i]n𝑖𝑖i+tia l∆ s𝐸𝐸to[𝑛𝑛c𝑢𝑢k𝑎𝑎 o 𝑜𝑜f 𝑎𝑎u𝑎𝑎n𝑢𝑢e𝑙𝑙𝑜𝑜n𝑜𝑜cu]𝑖𝑖mbered HQLAs and the initial
+expected net outflows within a 30-day stress period.
+The LCR numerator, i.e., the unencumbered HQLA stock, is impacted by the digital euro-induced
+changes to the bank’s balance sheet in two ways. First by a decrease in reserves: the unencumbered
+HQLA stock is reduced either by drawing down own reserves to deal with own deposit outflows or by
+lending out reserves on the interbank market. Second by secured borrowing or lending: the
+unencumbered HQLA stock decreases when the bank borrows against HQLAs and unencumbered
+HQLAs received in secured transactions may be considered as part of the stock of HQLA. Note that,
+although similar in spirit, there can be a difference between “ ” of a HQLA and its
+“ ”. Thus, the change in the market value of unencumbere ℎd
+𝑎𝑎
+H 𝑖𝑖𝑟𝑟Q 𝑎𝑎𝑎𝑎L 𝑎𝑎A
+𝑎𝑎
+𝑖𝑖is given by:
+𝐿𝐿𝑆𝑆𝑅𝑅 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟𝑖𝑖
+𝑆𝑆𝑇𝑇𝑆𝑆 (1−𝐿𝐿𝑆𝑆𝑅𝑅 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟𝑖𝑖)
+∆𝐻𝐻𝐻𝐻𝐿𝐿𝐴𝐴𝑖𝑖 =𝛥𝛥𝑅𝑅𝑖𝑖 −�� ∗(∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖)
+𝑖𝑖 𝑖𝑖 (1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑖𝑖)
+(1−𝐿𝐿𝑆𝑆𝑅𝑅 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟𝑖𝑖)
++�� ∗�∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖�+𝜓𝜓𝑀𝑀𝑆𝑆𝑀𝑀∗Δ𝐿𝐿𝑆𝑆𝐿𝐿𝑖𝑖𝑖𝑖,
+𝑖𝑖 𝑖𝑖 (1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑖𝑖)
+where the market value of collateral is adjusted using the collateral specific haircut and LCR factor. It
+also includes the fact that the market value of collateral received in repo transactions may count toward
+a bank’s stock of HQLAs. captures that a long-term security not issued by the bank itself may
+partially count as HQLA. 𝜓𝜓𝑀𝑀𝑆𝑆𝑀𝑀
+Also, the LCR numerator, the expected net outflows during a 30-day stress period, is impacted by the
+digital euro-induced balance sheet changes. Once deposits are withdrawn, expected outflows
+decreases by the withdrawn deposits multiplied by their respective run-off rate. The run-off rate
+differentiates between stable and less stable deposits. However, net expected outflows may also
+increase depending on the run-off rate of the newly obtained interbank funding instruments and the
+6WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+expected inflow resulting from loans to other financial institutions. Thus, the total change in the expected
+outflow of bank is given by:
+𝑖𝑖
+∆𝐸𝐸[𝑛𝑛𝑢𝑢𝑎𝑎 𝑜𝑜𝑎𝑎𝑎𝑎𝑢𝑢𝑙𝑙𝑜𝑜𝑜𝑜]𝑖𝑖
+=𝛥𝛥𝐷𝐷𝑖𝑖 ∗𝑟𝑟𝑎𝑎𝑛𝑛 𝑜𝑜𝑢𝑢𝑢𝑢 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝐷𝐷𝑖𝑖
++ � ��(𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖∗𝑟𝑟𝑎𝑎𝑛𝑛 𝑜𝑜𝑢𝑢𝑢𝑢 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖−𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖
+𝑓𝑓=𝑆𝑆𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆,𝑀𝑀𝑀𝑀𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆,𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑖𝑖 𝑖𝑖
+∗𝑖𝑖𝑛𝑛𝑢𝑢𝑙𝑙𝑜𝑜𝑜𝑜 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖)
++ � ��(𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖∗𝑟𝑟𝑎𝑎𝑛𝑛 𝑜𝑜𝑢𝑢𝑢𝑢 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖−𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖∗𝑖𝑖𝑛𝑛𝑢𝑢𝑙𝑙𝑜𝑜𝑜𝑜 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖)
+𝑓𝑓=𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆𝑆𝑆 𝑖𝑖 𝑖𝑖
++ � � (𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖∗𝑟𝑟𝑎𝑎𝑛𝑛 𝑜𝑜𝑢𝑢𝑢𝑢 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝑢𝑢𝑖𝑖𝑖𝑖−𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖∗𝑖𝑖𝑛𝑛𝑢𝑢𝑙𝑙𝑜𝑜𝑜𝑜 𝑟𝑟𝑎𝑎𝑎𝑎𝑢𝑢 𝑢𝑢𝑖𝑖𝑖𝑖)
+Furthermore, when𝑓𝑓 =c𝑆𝑆a𝑆𝑆l,c𝑀𝑀u𝑆𝑆l,a𝑀𝑀t𝑀𝑀i𝑆𝑆n,g𝑀𝑀𝑆𝑆 t,𝑆𝑆h𝑆𝑆e𝑆𝑆𝑆𝑆 c𝑆𝑆h𝑆𝑆a,𝑆𝑆𝑆𝑆n𝑀𝑀g𝑆𝑆e𝑆𝑆𝑆𝑆 in 𝑖𝑖the net expected outflow, the regulatory cap on inflows is
+included. Expected liquidity inflows can only be recognised up to a limit of 75% of expected liquidity
+outflows. This additional restriction is not contained in the expression.
+Net Stable Funding Ratio
+The new NSFR, after balance-sheet re-optimisation, is calculated as
+𝐴𝐴�𝑆𝑆𝐹𝐹𝚤𝚤+ ∆𝐴𝐴𝑆𝑆𝐹𝐹𝑖𝑖
+𝐼𝐼𝑆𝑆𝐹𝐹𝑅𝑅𝑖𝑖 =
+where the variables with a circumflex represent th𝑅𝑅�e𝑆𝑆 i𝐹𝐹n𝚤𝚤i+tia l∆ s𝑅𝑅to𝑆𝑆c𝐹𝐹k𝑖𝑖 of Available Stable Funding ( ) and
+the initial stock of Required Stable Funding ( ).
+𝐴𝐴𝑆𝑆𝐹𝐹
+The NSFR numerator, a banks’ available st𝑅𝑅a𝑆𝑆b𝐹𝐹le funding, may be affected in two ways. First, when
+deposits are withdrawn, available stable funding decreases since retail deposits are considered a stable
+source of funding. The extent of the decrease depends on the ASF factor assigned to the withdrawn
+deposits by the regulator, which differentiates between stable and less stable deposits. Second, newly
+obtained funding sources may be counted as available stable funding. Thus, the change in bank ’s
+available stable funding is given by:
+𝑖𝑖
+∆𝐴𝐴𝑆𝑆𝐹𝐹𝑖𝑖 =𝛥𝛥𝐷𝐷𝑖𝑖∗𝐴𝐴𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟 𝐷𝐷𝑖𝑖+ � ��𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖∗𝐴𝐴𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟 𝑢𝑢𝑖𝑖𝑖𝑖
+𝑓𝑓=𝑆𝑆𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑀𝑀𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆,𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆 𝑖𝑖 𝑖𝑖
++ � ��𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖∗𝐴𝐴𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟 𝑢𝑢𝑖𝑖𝑖𝑖+ � �𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖∗𝐴𝐴𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟 𝑢𝑢𝑖𝑖𝑖𝑖
+The NSFR denom𝑓𝑓in=a𝑆𝑆𝑆𝑆t𝑆𝑆o𝑆𝑆r,,𝑀𝑀 𝑆𝑆r𝑆𝑆e𝑆𝑆pr𝑖𝑖ese𝑖𝑖nting the required stab𝑓𝑓le=𝑆𝑆 𝑆𝑆fu,𝑀𝑀n𝑆𝑆d,𝑀𝑀in𝑀𝑀𝑆𝑆g,𝑀𝑀,𝑆𝑆 c,𝑆𝑆a𝑆𝑆𝑆𝑆n𝑆𝑆 𝑆𝑆a𝑆𝑆l,s𝑆𝑆𝑆𝑆o𝑀𝑀 𝑆𝑆b𝑆𝑆e𝑆𝑆 a𝑖𝑖ffected in three ways.
+First, a bank’s required stable funding increases when assets are encumbered, leading to a higher RSF
+factor being applied to these newly encumbered assets. When assets are encumbered for a period of
+six months to a year, they obtain a 50% RSF factor, while when they are encumbered for a period of
+one year or more their new RSF factor is 100%. Second, the required stable funding increases for a
+bank which lends on the interbank market since loans to financial institutions increase the required
+stable funding. Third, the newly obtained collateral in repo transactions receives a RSF factor, which
+depends on the type of collateral. Thus, the change is given by:
+∆𝑅𝑅𝑆𝑆𝐹𝐹𝑖𝑖
+7WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+(0.5−𝑅𝑅𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟𝑖𝑖) (1−𝑅𝑅𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟𝑖𝑖)
+Δ𝑅𝑅𝑆𝑆𝐹𝐹𝑖𝑖 = �� ∗�∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖�+�� ∗�∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝐿𝐿𝑆𝑆𝑆𝑆𝑆𝑆𝐵𝐵𝑖𝑖𝑖𝑖�
+𝑖𝑖 𝑖𝑖 (1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑖𝑖) 𝑖𝑖 𝑖𝑖 (1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑖𝑖)
++ � ��𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖𝑖𝑖∗𝑅𝑅𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟 𝑢𝑢𝑖𝑖𝑖𝑖+ � �𝛥𝛥𝑢𝑢𝑖𝑖𝑖𝑖∗𝑅𝑅𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟 𝑢𝑢𝑖𝑖𝑖𝑖
+𝑓𝑓=𝑆𝑆𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆𝑆𝑆,𝑀𝑀𝑀𝑀𝑆𝑆𝑆𝑆 𝑖𝑖 𝑖𝑖 𝑓𝑓=𝑆𝑆𝑆𝑆,𝑀𝑀𝑆𝑆,𝑀𝑀𝑀𝑀𝑆𝑆,𝑀𝑀𝑆𝑆 𝑖𝑖
+(1−𝑅𝑅𝑆𝑆𝐹𝐹 𝑢𝑢𝑎𝑎𝑎𝑎𝑎𝑎𝑜𝑜𝑟𝑟𝑖𝑖)
++ �� ∗�∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖+∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖𝑖𝑖�
+𝑖𝑖 𝑖𝑖 (1−ℎ𝑎𝑎𝑖𝑖𝑟𝑟𝑎𝑎𝑎𝑎𝑎𝑎 𝑎𝑎𝑖𝑖)
+The interbank market
+In our baseline model specification, the interbank market is perfectly competitive and frictionless. The
+demand for each type of interbank loan is satisfied by a lender, but only if there is an unconstrained
+bank with sufficient excess reserves available to be lent out. Recall that, when a bank borrows reserves
+on the interbank market, the liquidity ratios of both the borrowing and lending bank are affected.
+Constraints (7)-(14) represent the market clearing conditions for each type of funding. These conditions
+imply that, in addition to its own reserves, collateral and liquidity constraints, each bank’s interbank
+borrowing or lending choices must also be consistent with aggregate market clearing conditions.
+�� ∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝑆𝑆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 (7)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝑀𝑀𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 (8)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝑀𝑀𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 (9)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝐿𝐿𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 (10)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝑆𝑆𝑆𝑆𝑖𝑖𝑖𝑖 (11)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝑀𝑀𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝑀𝑀𝑆𝑆𝑖𝑖𝑖𝑖 (12)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝑀𝑀𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝑀𝑀𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖 (13)
+𝑖𝑖 𝑖𝑖 𝑖𝑖 𝑖𝑖
+�� ∆𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖 =�� ∆𝐿𝐿𝑆𝑆𝑖𝑖𝑖𝑖 (14)
+The model does not explicitly conside𝑖𝑖r th𝑖𝑖 at banks can𝑖𝑖 ob𝑖𝑖 tain liquidity from other private entities such
+as non-banks. The reason is that the impact on the distribution of reserves across banks is the same
+whether reserves are exchanged directly between banks or indirectly at the request of a (non-bank)
+customer of a bank. If a bank borrows from a non-bank, reserves are transferred from the bank where
+the non-bank holds its deposit (Bank B) to the borrowing bank (Bank A). This lowers the reserves at
+Bank B and increases the reserves at Bank A, just as it would if Bank A had borrowed directly from
+Bank B. The impact on its LCR for Bank A is also the same. For Bank B, the LCR impact is very similar
+if the alternative interbank funding would have been unsecured with a maturity of less than 30 days.
+Solution algorithm
+This section briefly explains the solution algorithm. First, each bank’s profit-maximizing balance sheet
+adjustment is maximised subject to its reserve, liquidity, and collateral constraints. This balance sheet
+8WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+adjustment consists of (a mix of) reserve depletion and/or secured and unsecured funding options, with
+different maturities and with specific collateral assets becoming encumbered. In the next step, market
+clearing conditions are accounted for. On the interbank market, all banks that want to borrow receive
+reserves accordingly if there is sufficient liquidity in the interbank market. The funding comes from and
+is split evenly across all banks which are willing to lend. Banks are willing to lend if they have sufficient
+reserves and if lending will not decrease their liquidity ratios below their preferred levels. The balance
+sheets and liquidity ratios of both the borrower and the lender are adjusted to account for the
+transaction. If no bank is willing to satisfy the demand for a specific funding option, the initial optimisation
+that determines the profit maximizing balance sheet adjustment is re-run with this funding option
+excluded. This process continues until all the interbank market clears or until no more bank is willing to
+lend on the interbank market. At this point, banks can only manage additional outflows by depleting
+their own reserves or by obtaining central bank funding.
+Banks’ reaction: Impact on profitability
+The analysis is further complemented by an assessment of the effect on Net Interest Income (NII),
+which has been introduced also in view of the feedback received in the context of the ERPB discussion.
+NII captures the possible changes in interest income and expense due to changes in banks’ balance
+sheets in response to deposit outflows
+The impact of the digital euro introduction on banks’ net interest income is assessed by considering the
+changes in interest income and interest expense for each balance sheet item due to the deposit
+outflows. More specifically, changes in interest income and expenses are determined by considering
+changes in the volumes of the various banks’ balance sheet items. As detailed above, banks respond
+to deposit outflows adjusting the composition of their balance sheets. More specifically, in this
+framework banks can change interbank assets and liabilities, central bank funding and reserves. These
+changes are an outcome of the balance sheet optimization model and are multiplied by the
+corresponding interest rates. Interest rates for each balance sheet item are calibrated at the bank level
+and are assumed to remain constant. In the main analysis, we use interest rates from Q1 2024, while
+sensitivity analyses are conducted for different periods to assess how varying interest rate environments
+affect the results. Formally, the change in NII for bank i is expressed as:
+NII ,
+where r represents t𝛥𝛥he in𝑖𝑖 t=er e∆s𝐼𝐼t𝐼𝐼 r𝑆𝑆a𝑖𝑖te−s a∆n𝑆𝑆d𝐹𝐹 𝑖𝑖q= th∑e𝑎𝑎 q∈𝑎𝑎u𝑠𝑠a𝑠𝑠𝑎𝑎n𝑎𝑎t𝑟𝑟it𝑖𝑖i,e𝑎𝑎s𝛥𝛥.𝑞𝑞 𝑖𝑖,𝑎𝑎−∑𝑖𝑖∈𝑖𝑖𝑖𝑖𝑎𝑎𝑙𝑙𝑖𝑖𝑖𝑖𝑖𝑖𝑎𝑎𝑖𝑖𝑎𝑎𝑠𝑠𝑟𝑟𝑖𝑖,𝑖𝑖𝛥𝛥𝑞𝑞𝑖𝑖,𝑖𝑖
+Collateral availability
+The model is also used to cross-check the collateral availability for each bank according to the following
+analysis
+�(1−ℎ𝑖𝑖)×𝑎𝑎𝑎𝑎𝑖𝑖,𝑖𝑖 ≥𝑑𝑑€𝑅𝑅𝑖𝑖,𝐼𝐼𝑆𝑆+𝑑𝑑€𝑅𝑅𝑖𝑖,𝑆𝑆𝑆𝑆
+𝑖𝑖
+where represents bank j’s total available unencumbered, eligible collateral, after
+𝑆𝑆
+asset c ∑la 𝑖𝑖s =s
+1(
+s 1p −ec ℎif𝑖𝑖i )c
+×
+h 𝑎𝑎a𝑖𝑖ircuts in line with the ECB collateral framework, And is the am 𝑎𝑎o 𝑎𝑎,u nt of
+h𝑖𝑖. 𝑑𝑑€𝑅𝑅𝑖𝑖
+9WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+secured funding which bank j demands in response to a digital euro, either from the interbank (IB)
+market or the central bank (CB), which is simulated following the methodology described above. On
+aggregate, banks also need to have a collateral buffer for unexpected funding needs.
+The analysis is further enhanced by examining potential conditions for collateral scarcity according to
+the following formula:
+where is the Eurosystem footprint in gov𝐹𝐹�𝑠𝑠er>nm𝐹𝐹𝐷𝐷e€nt+ b𝐹𝐹o𝑀𝑀n𝑆𝑆d𝐼𝐼s markets, defined as sum of government
+bonds pledged or held at the central bank for credit operations and portfolio holdings. represents the
+𝐹𝐹
+observed, asset-growth adjusted Eurosystem footprint during a period of collateral s c 𝐹𝐹�a𝑠𝑠rcity, is the
+Eurosystem footprint related to the digital euro and the Eurosystem market footprin 𝐹𝐹t𝐷𝐷 €due to
+monetary policy considerations independent of the digita 𝐹𝐹𝑀𝑀l e𝑆𝑆𝐼𝐼uro.
+Data and sample
+The analysis relies on data collected via FINREP and COREP templates, which are part of the
+European Banking Authority’s supervisory reporting requirements. These datasets provide
+comprehensive financial and prudential information on banks. The baseline scenario is based on a
+sample of 2009 euro area banks from the first quarter of 2024. The sample includes all supervised
+institutions in the euro area. The data includes detailed information on the asset and liability composition
+of each bank. The analysis uses information on banks’ deposits holdings, reserve and banknotes
+holdings, regulatory liquidity ratios, market value of different types of HQLA and central bank eligible
+collateral.
+This information set has been complemented by an ad-hoc data collection exercise that the SSM has
+carried out in July 2024 with 98 Significant Institutions (those with retail deposits). This dataset - with
+reference date 31 March 2024 - included granular data on information of the distribution of retail
+deposits held by natural persons eligible to hold digital euros, on a consolidated level. In line with the
+feedback received from market participants regarding the factors to be considered, this data collection
+has incorporated data on banks’ internal liquidity targets. The data collection adheres to the regulatory
+reporting framework as much as possible and uses COREP ALM to complement this information and
+perform the necessary robustness checks.
+Overall, the SSM data collection included two pillars of information: i) liquidity targets and ii) distribution
+of retail deposits (sight, term, and savings) disaggregated in 12 buckets or thresholds for volume of
+deposits, number of depositors and deposit accounts, respectively. The data also includes for each
+range and institution the average deposit rates paid by banks to depositors. Finally, the data includes a
+breakdown to determine the volume of deposits covered by deposit guarantee schemes or deemed as
+“stable” for supervisory purposes. This is done to gauge the level of “stickiness” of retail deposits across
+the entire sample.
+As of beginning of December 2024, the Less Significant Institutions (LSIs) data collection had been
+triggered for 185 banks in all Eurosystem countries – aiming to finalize robustness checks by end of the
+year. The same data template has been used as for Significant Institutions to foster harmonized results
+across both exercises (Significant Institutions and Less Significant Institutions).
+10WORKING DOCUMENT - PRELIMINARY– FOR FEEDBACK ONLY
+References
+Adalid, R., et al. (2022), Central bank digital currency and bank intermediation: Exploring different
+approaches for assessing the effects of a digital euro on euro area banks, Occasional Paper, No 293.
+Meller, B. and O. Soons (2023): Know your (holding) limits: CBDC, financial stability and central bank
+reliance, ECB Occasional Paper No. 326.
+Meller, B. and O. Soons (2024): Know your (holding) limits: CBDC, financial stability and central bank
+reliance, available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4984785.
+11"
+en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Update_on_Experimentation.en.pdf,12 December 2024,"Innovation partnerships
+Nico Schmidt
+10/12/2024
+User research and ExperimentationWe continue to engage with market participants on a technical level
+On 31 October, we published a Call for expression We attracted large interest proving the worth of the
+of interest to attract market participants to join an engagement for market participants and the
+open and transparent experimentation exercise. Eurosystem.
+Interested parties could apply until the 29th November.
+Pioneers
+Visionaries
+27 41 24
+92
+2 www.ecb.europa.eu ©The differences between the engagement types
+Main scope: Pioneers Secondary scope: Visionaries
+• Facilitate technical testing against digital euro infrastructure • Conceptual work to explore e.g. innovative use cases (e.g.
+and prove implementation of conditional payments also covering B2B payments), community impact and
+• Open participation (minimum selection against potentially societal considerations involving multiple stakeholders with
+harmful applications) different backgrounds
+• Open collaboration (onboarding package, technical support, • All entries will be assessed whereas the most interesting,
+no direct/weekly interactions, participants remain owners of innovative and coherent visions will be invited
+created IP and may be allowed to communicate on their • One-off half day workshops to promote the most original
+contribution) ideas
+• On-site event at the ECB with e.g. HLTF/ERPB to showcase • On-site event at the ECB with e.g. HLTF/ERPB to
+best entries showcase best entries
+• To be summarised in a report to be published by the ECB • To be summarised in a report to be published by the ECB
+3 www.ecb.europa.eu ©How the engagement is planned to continue
+Visionaries
+From Jan’ 24 until ~end of April:
+• Bilateral workshops with
+selected applicants (~1-2 per
+week)
+Innovation partnerships June 25
+• Outcome
+report
+Oct’ 24: Nov’ 24: Dec’ 24: Pioneers
+• Publish Call for • Q&A period • Review
+Expression of applications
+Interest detailing Jan’ 25: From Feb’ 25 until ~end of May:
+out • Disseminate onboarding • Continuous evolution of the
+• Scope package (incl. functional interfaces and unsupervised
+• How to apply and technical testing & integration
+• Mode of description)
+collaboration • Kick-off workshop
+4 www.ecb.europa.eu ©Thank you for
+your attention!"
+en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.deprep241212_14erpb_Timeline_of_2025_ERPB_sessions.en.pdf,12 December 2024,"ERPB Technical
+Sessions in 2025
+10 December 2024 Digital euro projectHigh-level timeline: 5 sessions scheduled in 2025
+weeks
+2 www.ecb.europa.eu ©
+10/92
+2025
+January February March April May June July August September October
+Regular ERPB technical session
+ERPB technical session on fit in the ecosystem
+ERPB technical session on fit in the ecosystem joint outcome session
+20/30 20/11 20/72 40/10 40/90 50/22 60/62 01/10"
 en,https://www.ecb.europa.eu/pub/pdf/other/ecb.projections202412_eurosystemstaff_annex~ea2e8b779c.en.xlsx,12 December 2024,Error
 en,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2024/html/ecb.is241212~ce143b3bc8.en.html,12 December 2024,"Frankfurt am Main, 12 December 2024
 Good afternoon, the Vice-President and I welcome you to our press conference.
@@ -74,7 +1054,191 @@ The Governing Council stands ready to adjust all of its instruments within its m
 The President of the ECB will comment on the considerations underlying these decisions at a press conference starting at 14:45 CET today.
 DisclaimerPlease note that related topic tags are currently available for selected content only.
 Reproduction is permitted provided that the source is acknowledged."
-en,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds241212~154574b25f.en.pdf,12 December 2024,Error
+en,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds241212~154574b25f.en.pdf,12 December 2024,"Combined monetary policy decisions and
+statement
+12 December 2024
+Monetary policy decisions
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In
+particular, the decision to lower the deposit facility rate – the rate through which the Governing Council
+steers the monetary policy stance – is based on its updated assessment of the inflation outlook, the
+dynamics of underlying inflation and the strength of monetary policy transmission.
+The disinflation process is well on track. Staff see headline inflation averaging 2.4% in 2024, 2.1% in
+2025, 1.9% in 2026 and 2.1% in 2027 when the expanded EU Emissions Trading System becomes
+operational. For inflation excluding energy and food, staff project an average of 2.9% in 2024, 2.3% in
+2025 and 1.9% in both 2026 and 2027.
+Most measures of underlying inflation suggest that inflation will settle at around the Governing
+Council’s 2% medium-term target on a sustained basis. Domestic inflation has edged down but
+remains high, mostly because wages and prices in certain sectors are still adjusting to the past
+inflation surge with a substantial delay.
+Financing conditions are easing, as the Governing Council’s recent interest rate cuts gradually make
+new borrowing less expensive for firms and households. But they continue to be tight because
+monetary policy remains restrictive and past interest rate hikes are still transmitting to the outstanding
+stock of credit.
+Staff now expect a slower economic recovery than in the September projections. Although growth
+picked up in the third quarter of this year, survey indicators suggest it has slowed in the current
+quarter. Staff see the economy growing by 0.7% in 2024, 1.1% in 2025, 1.4% in 2026 and 1.3% in
+2027. The projected recovery rests mainly on rising real incomes – which should allow households to
+consume more – and firms increasing investment. Over time, the gradually fading effects of restrictive
+monetary policy should support a pick-up in domestic demand.
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20, 60314 Frankfurt am Main, Germany
+Tel.: +49 69 1344 7455, email: media@ecb.europa.eu, website: www.ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.The Governing Council is determined to ensure that inflation stabilises sustainably at its 2% medium-
+term target. It will follow a data-dependent and meeting-by-meeting approach to determining the
+appropriate monetary policy stance. In particular, the Governing Council’s interest rate decisions will
+be based on its assessment of the inflation outlook in light of the incoming economic and financial
+data, the dynamics of underlying inflation and the strength of monetary policy transmission. The
+Governing Council is not pre-committing to a particular rate path.
+Key ECB interest rates
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points.
+Accordingly, the interest rates on the deposit facility, the main refinancing operations and the marginal
+lending facility will be decreased to 3.00%, 3.15% and 3.40% respectively, with effect from 18
+December 2024.
+Asset purchase programme (APP) and pandemic emergency
+purchase programme (PEPP)
+The APP portfolio is declining at a measured and predictable pace, as the Eurosystem no longer
+reinvests the principal payments from maturing securities.
+The Eurosystem no longer reinvests all of the principal payments from maturing securities purchased
+under the PEPP, reducing the PEPP portfolio by €7.5 billion per month on average. The Governing
+Council will discontinue reinvestments under the PEPP at the end of 2024.
+Refinancing operations
+Banks will repay the remaining amounts borrowed under the targeted longer-term refinancing
+operations this month, which concludes this part of the balance sheet normalisation process.
+***
+The Governing Council stands ready to adjust all of its instruments within its mandate to ensure that
+inflation stabilises sustainably at its 2% target over the medium term and to preserve the smooth
+functioning of monetary policy transmission. Moreover, the Transmission Protection Instrument is
+available to counter unwarranted, disorderly market dynamics that pose a serious threat to thetransmission of monetary policy across all euro area countries, thus allowing the Governing Council to
+more effectively deliver on its price stability mandate.
+The President of the ECB will comment on the considerations underlying these decisions at a press
+conference starting at 14:45 CET today.Monetary policy statement
+Press conference
+Christine Lagarde, President of the ECB,
+Luis de Guindos, Vice-President of the ECB
+Good afternoon, the Vice-President and I welcome you to our press conference.
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In
+particular, the decision to lower the deposit facility rate – the rate through which we steer the monetary
+policy stance – is based on our updated assessment of the inflation outlook, the dynamics of
+underlying inflation and the strength of monetary policy transmission.
+The disinflation process is well on track. Staff see headline inflation averaging 2.4 per cent in 2024,
+2.1 per cent in 2025, 1.9 per cent in 2026 and 2.1 per cent in 2027 when the expanded EU Emissions
+Trading System becomes operational. For inflation excluding energy and food, staff project an
+average of 2.9 per cent in 2024, 2.3 per cent in 2025 and 1.9 per cent in both 2026 and 2027.
+Most measures of underlying inflation suggest that inflation will settle at around our two per cent
+medium-term target on a sustained basis. Domestic inflation has edged down but remains high, mostly
+because wages and prices in certain sectors are still adjusting to the past inflation surge with a
+substantial delay.
+Financing conditions are easing, as our recent interest rate cuts gradually make new borrowing less
+expensive for firms and households. But they continue to be tight because our monetary policy
+remains restrictive and past interest rate hikes are still transmitting to the outstanding stock of credit.
+Staff now expect a slower economic recovery than in the September projections. Although growth
+picked up in the third quarter of this year, survey indicators suggest it has slowed in the current
+quarter. Staff see the economy growing by 0.7 per cent in 2024, 1.1 per cent in 2025, 1.4 per cent in
+2026 and 1.3 per cent in 2027. The projected recovery rests mainly on rising real incomes – which
+should allow households to consume more – and firms increasing investment. Over time, the gradually
+fading effects of restrictive monetary policy should support a pick-up in domestic demand.
+We are determined to ensure that inflation stabilises sustainably at our two per cent medium-term
+target. We will follow a data-dependent and meeting-by-meeting approach to determining the
+appropriate monetary policy stance. In particular, our interest rate decisions will be based on our
+assessment of the inflation outlook in light of the incoming economic and financial data, the dynamicsof underlying inflation and the strength of monetary policy transmission. We are not pre-committing to
+a particular rate path.
+The decisions taken today are set out in a press release available on our website.
+I will now outline in more detail how we see the economy and inflation developing and will then explain
+our assessment of financial and monetary conditions.
+Economic activity
+The economy grew by 0.4 per cent in the third quarter, exceeding expectations. Growth was driven
+mainly by an increase in consumption, partly reflecting one-off factors that boosted tourism over the
+summer, and by firms building up inventories. But the latest information suggests it is losing
+momentum. Surveys indicate that manufacturing is still contracting and growth in services is slowing.
+Firms are holding back their investment spending in the face of weak demand and a highly uncertain
+outlook. Exports are also weak, with some European industries finding it challenging to remain
+competitive.
+The labour market remains resilient. Employment grew by 0.2 per cent in the third quarter, again by
+more than expected. The unemployment rate remained at its historical low of 6.3 per cent in October.
+Meanwhile, demand for labour continues to weaken. The job vacancy rate declined to 2.5% in the third
+quarter, 0.8 percentage points below its peak, and surveys also point to fewer jobs being created in
+the current quarter.
+The economy should strengthen over time, although more slowly than previously expected. The rise in
+real wages should strengthen household spending. More affordable credit should boost consumption
+and investment. Provided trade tensions do not escalate, exports should support the recovery as
+global demand rises.
+Fiscal and structural policies should make the economy more productive, competitive and resilient. It is
+crucial to swiftly follow up, with concrete and ambitious structural policies, on Mario Draghi’s proposals
+for enhancing European competitiveness and Enrico Letta’s proposals for empowering the Single
+Market. We welcome the European Commission’s assessment of governments’ medium-term plans
+for fiscal and structural policies, as part of the EU’s revised economic governance framework.
+Governments should now focus on implementing their commitments under this framework fully and
+without delay. This will help bring down budget deficits and debt ratios on a sustained basis, while
+prioritising growth-enhancing reforms and investment.Inflation
+Annual inflation increased to 2.3 per cent in November according to Eurostat’s flash estimate, from 2.0
+per cent in October. The increase was expected and primarily reflected an energy-related upward
+base effect. Food price inflation edged down to 2.8 per cent and services inflation to 3.9 per cent.
+Goods inflation went up to 0.7 per cent.
+Domestic inflation, which closely tracks services inflation, again eased somewhat in October. But at
+4.2%, it remains high. This reflects strong wage pressures and the fact that some services prices are
+still adjusting with a delay to the past inflation surge. That said, underlying inflation is overall
+developing in line with a sustained return of inflation to target.
+The increase in compensation per employee moderated to 4.4 per cent in the third quarter from 4.7
+per cent in the second. Amid stable productivity, this contributed to slower growth in unit labour costs.
+Staff expect labour costs to increase more slowly over the projection horizon as a result of lower wage
+growth and higher productivity growth. Moreover, profits should continue to partially offset the effects
+of higher labour costs on prices, especially in the near term.
+We expect inflation to fluctuate around its current level in the near term, as previous sharp falls in
+energy prices continue to drop out of the annual rates. It should then settle sustainably at around the
+two per cent medium-term target. Easing labour cost pressures and the continuing impact of our past
+monetary policy tightening on consumer prices should help this process. Most measures of longer-
+term inflation expectations stand at around 2 per cent, and market-based indicators of medium to
+longer-term inflation compensation have decreased measurably since the Governing Council’s
+October meeting.
+Risk assessment
+The risks to economic growth remain tilted to the downside. The risk of greater friction in global trade
+could weigh on euro area growth by dampening exports and weakening the global economy. Lower
+confidence could prevent consumption and investment from recovering as fast as expected. This
+could be amplified by geopolitical risks, such as Russia’s unjustified war against Ukraine and the tragic
+conflict in the Middle East, which could disrupt energy supplies and global trade. Growth could also be
+lower if the lagged effects of monetary policy tightening last longer than expected. It could be higher if
+easier financing conditions and falling inflation allow domestic consumption and investment to rebound
+faster.
+Inflation could turn out higher if wages or profits increase by more than expected. Upside risks to
+inflation also stem from the heightened geopolitical tensions, which could push energy prices andfreight costs higher in the near term and disrupt global trade. Moreover, extreme weather events, and
+the unfolding climate crisis more broadly, could drive up food prices by more than expected. By
+contrast, inflation may surprise on the downside if low confidence and concerns about geopolitical
+events prevent consumption and investment from recovering as fast as expected, if monetary policy
+dampens demand more than expected, or if the economic environment in the rest of the world
+worsens unexpectedly. Greater friction in global trade would make the euro area inflation outlook more
+uncertain.
+Financial and monetary conditions
+Market interest rates in the euro area have declined further since our October meeting, reflecting the
+perceived worsening of the economic outlook. Although financing conditions remain restrictive, our
+interest rate cuts are gradually making it less expensive for firms and households to borrow.
+The average interest rate on new loans to firms was 4.7 per cent in October, more than half a
+percentage point below its peak a year earlier. The cost of issuing market-based debt has fallen by
+more than a percentage point since its peak. The average rate on new mortgages, at 3.6 per cent in
+October, is about half a percentage point lower than at its highest point in 2023, even though the
+average rate on the outstanding stock of mortgages is still set to rise.
+Bank lending to firms has gradually picked up from low levels, and increased by 1.2 per cent in
+October compared with a year earlier. Debt securities issued by firms were up 3.1% in annual terms,
+which was similar to the increase in the previous few months. Mortgage lending continued to rise
+gradually in October, with an annual growth rate of 0.8 per cent.
+In line with our monetary policy strategy, the Governing Council thoroughly assessed the links
+between monetary policy and financial stability. Euro area banks remain resilient and there are few
+signs of financial market stress. Financial stability risks nonetheless remain elevated. Macroprudential
+policy remains the first line of defence against the build-up of financial vulnerabilities, enhancing
+resilience and preserving macroprudential space.
+Conclusion
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In
+particular, the decision to lower the deposit facility rate – the rate through which we steer the monetary
+policy stance – is based on our updated assessment of the inflation outlook, the dynamics of
+underlying inflation and the strength of monetary policy transmission. We are determined to ensurethat inflation stabilises sustainably at our two per cent medium-term target. We will follow a data-
+dependent and meeting-by-meeting approach to determining the appropriate monetary policy stance.
+In particular, our interest rate decisions will be based on our assessment of the inflation outlook in light
+of the incoming economic and financial data, the dynamics of underlying inflation and the strength of
+monetary policy transmission. We are not pre-committing to a particular rate path.
+In any case, we stand ready to adjust all of our instruments within our mandate to ensure that inflation
+stabilises sustainably at our medium-term target and to preserve the smooth functioning of monetary
+policy transmission.
+We are now ready to take your questions."
 en,https://www.ecb.europa.eu/press/pr/date/2024/html/ecb.mp241212~2acab6e51e.en.html,12 December 2024,"12 December 2024
 The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In particular, the decision to lower the deposit facility rate – the rate through which the Governing Council steers the monetary policy stance – is based on its updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission.
 The disinflation process is well on track. Staff see headline inflation averaging 2.4% in 2024, 2.1% in 2025, 1.9% in 2026 and 2.1% in 2027 when the expanded EU Emissions Trading System becomes operational. For inflation excluding energy and food, staff project an average of 2.9% in 2024, 2.3% in 2025 and 1.9% in both 2026 and 2027.
@@ -91,7 +1255,191 @@ The Governing Council stands ready to adjust all of its instruments within its m
 The President of the ECB will comment on the considerations underlying these decisions at a press conference starting at 14:45 CET today.
 DisclaimerPlease note that related topic tags are currently available for selected content only.
 Reproduction is permitted provided that the source is acknowledged."
-en,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds241212~154574b25f.en.pdf,12 December 2024,Error
+en,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/shared/pdf/ecb.ds241212~154574b25f.en.pdf,12 December 2024,"Combined monetary policy decisions and
+statement
+12 December 2024
+Monetary policy decisions
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In
+particular, the decision to lower the deposit facility rate – the rate through which the Governing Council
+steers the monetary policy stance – is based on its updated assessment of the inflation outlook, the
+dynamics of underlying inflation and the strength of monetary policy transmission.
+The disinflation process is well on track. Staff see headline inflation averaging 2.4% in 2024, 2.1% in
+2025, 1.9% in 2026 and 2.1% in 2027 when the expanded EU Emissions Trading System becomes
+operational. For inflation excluding energy and food, staff project an average of 2.9% in 2024, 2.3% in
+2025 and 1.9% in both 2026 and 2027.
+Most measures of underlying inflation suggest that inflation will settle at around the Governing
+Council’s 2% medium-term target on a sustained basis. Domestic inflation has edged down but
+remains high, mostly because wages and prices in certain sectors are still adjusting to the past
+inflation surge with a substantial delay.
+Financing conditions are easing, as the Governing Council’s recent interest rate cuts gradually make
+new borrowing less expensive for firms and households. But they continue to be tight because
+monetary policy remains restrictive and past interest rate hikes are still transmitting to the outstanding
+stock of credit.
+Staff now expect a slower economic recovery than in the September projections. Although growth
+picked up in the third quarter of this year, survey indicators suggest it has slowed in the current
+quarter. Staff see the economy growing by 0.7% in 2024, 1.1% in 2025, 1.4% in 2026 and 1.3% in
+2027. The projected recovery rests mainly on rising real incomes – which should allow households to
+consume more – and firms increasing investment. Over time, the gradually fading effects of restrictive
+monetary policy should support a pick-up in domestic demand.
+European Central Bank
+Directorate General Communications
+Sonnemannstrasse 20, 60314 Frankfurt am Main, Germany
+Tel.: +49 69 1344 7455, email: media@ecb.europa.eu, website: www.ecb.europa.eu
+Reproduction is permitted provided that the source is acknowledged.The Governing Council is determined to ensure that inflation stabilises sustainably at its 2% medium-
+term target. It will follow a data-dependent and meeting-by-meeting approach to determining the
+appropriate monetary policy stance. In particular, the Governing Council’s interest rate decisions will
+be based on its assessment of the inflation outlook in light of the incoming economic and financial
+data, the dynamics of underlying inflation and the strength of monetary policy transmission. The
+Governing Council is not pre-committing to a particular rate path.
+Key ECB interest rates
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points.
+Accordingly, the interest rates on the deposit facility, the main refinancing operations and the marginal
+lending facility will be decreased to 3.00%, 3.15% and 3.40% respectively, with effect from 18
+December 2024.
+Asset purchase programme (APP) and pandemic emergency
+purchase programme (PEPP)
+The APP portfolio is declining at a measured and predictable pace, as the Eurosystem no longer
+reinvests the principal payments from maturing securities.
+The Eurosystem no longer reinvests all of the principal payments from maturing securities purchased
+under the PEPP, reducing the PEPP portfolio by €7.5 billion per month on average. The Governing
+Council will discontinue reinvestments under the PEPP at the end of 2024.
+Refinancing operations
+Banks will repay the remaining amounts borrowed under the targeted longer-term refinancing
+operations this month, which concludes this part of the balance sheet normalisation process.
+***
+The Governing Council stands ready to adjust all of its instruments within its mandate to ensure that
+inflation stabilises sustainably at its 2% target over the medium term and to preserve the smooth
+functioning of monetary policy transmission. Moreover, the Transmission Protection Instrument is
+available to counter unwarranted, disorderly market dynamics that pose a serious threat to thetransmission of monetary policy across all euro area countries, thus allowing the Governing Council to
+more effectively deliver on its price stability mandate.
+The President of the ECB will comment on the considerations underlying these decisions at a press
+conference starting at 14:45 CET today.Monetary policy statement
+Press conference
+Christine Lagarde, President of the ECB,
+Luis de Guindos, Vice-President of the ECB
+Good afternoon, the Vice-President and I welcome you to our press conference.
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In
+particular, the decision to lower the deposit facility rate – the rate through which we steer the monetary
+policy stance – is based on our updated assessment of the inflation outlook, the dynamics of
+underlying inflation and the strength of monetary policy transmission.
+The disinflation process is well on track. Staff see headline inflation averaging 2.4 per cent in 2024,
+2.1 per cent in 2025, 1.9 per cent in 2026 and 2.1 per cent in 2027 when the expanded EU Emissions
+Trading System becomes operational. For inflation excluding energy and food, staff project an
+average of 2.9 per cent in 2024, 2.3 per cent in 2025 and 1.9 per cent in both 2026 and 2027.
+Most measures of underlying inflation suggest that inflation will settle at around our two per cent
+medium-term target on a sustained basis. Domestic inflation has edged down but remains high, mostly
+because wages and prices in certain sectors are still adjusting to the past inflation surge with a
+substantial delay.
+Financing conditions are easing, as our recent interest rate cuts gradually make new borrowing less
+expensive for firms and households. But they continue to be tight because our monetary policy
+remains restrictive and past interest rate hikes are still transmitting to the outstanding stock of credit.
+Staff now expect a slower economic recovery than in the September projections. Although growth
+picked up in the third quarter of this year, survey indicators suggest it has slowed in the current
+quarter. Staff see the economy growing by 0.7 per cent in 2024, 1.1 per cent in 2025, 1.4 per cent in
+2026 and 1.3 per cent in 2027. The projected recovery rests mainly on rising real incomes – which
+should allow households to consume more – and firms increasing investment. Over time, the gradually
+fading effects of restrictive monetary policy should support a pick-up in domestic demand.
+We are determined to ensure that inflation stabilises sustainably at our two per cent medium-term
+target. We will follow a data-dependent and meeting-by-meeting approach to determining the
+appropriate monetary policy stance. In particular, our interest rate decisions will be based on our
+assessment of the inflation outlook in light of the incoming economic and financial data, the dynamicsof underlying inflation and the strength of monetary policy transmission. We are not pre-committing to
+a particular rate path.
+The decisions taken today are set out in a press release available on our website.
+I will now outline in more detail how we see the economy and inflation developing and will then explain
+our assessment of financial and monetary conditions.
+Economic activity
+The economy grew by 0.4 per cent in the third quarter, exceeding expectations. Growth was driven
+mainly by an increase in consumption, partly reflecting one-off factors that boosted tourism over the
+summer, and by firms building up inventories. But the latest information suggests it is losing
+momentum. Surveys indicate that manufacturing is still contracting and growth in services is slowing.
+Firms are holding back their investment spending in the face of weak demand and a highly uncertain
+outlook. Exports are also weak, with some European industries finding it challenging to remain
+competitive.
+The labour market remains resilient. Employment grew by 0.2 per cent in the third quarter, again by
+more than expected. The unemployment rate remained at its historical low of 6.3 per cent in October.
+Meanwhile, demand for labour continues to weaken. The job vacancy rate declined to 2.5% in the third
+quarter, 0.8 percentage points below its peak, and surveys also point to fewer jobs being created in
+the current quarter.
+The economy should strengthen over time, although more slowly than previously expected. The rise in
+real wages should strengthen household spending. More affordable credit should boost consumption
+and investment. Provided trade tensions do not escalate, exports should support the recovery as
+global demand rises.
+Fiscal and structural policies should make the economy more productive, competitive and resilient. It is
+crucial to swiftly follow up, with concrete and ambitious structural policies, on Mario Draghi’s proposals
+for enhancing European competitiveness and Enrico Letta’s proposals for empowering the Single
+Market. We welcome the European Commission’s assessment of governments’ medium-term plans
+for fiscal and structural policies, as part of the EU’s revised economic governance framework.
+Governments should now focus on implementing their commitments under this framework fully and
+without delay. This will help bring down budget deficits and debt ratios on a sustained basis, while
+prioritising growth-enhancing reforms and investment.Inflation
+Annual inflation increased to 2.3 per cent in November according to Eurostat’s flash estimate, from 2.0
+per cent in October. The increase was expected and primarily reflected an energy-related upward
+base effect. Food price inflation edged down to 2.8 per cent and services inflation to 3.9 per cent.
+Goods inflation went up to 0.7 per cent.
+Domestic inflation, which closely tracks services inflation, again eased somewhat in October. But at
+4.2%, it remains high. This reflects strong wage pressures and the fact that some services prices are
+still adjusting with a delay to the past inflation surge. That said, underlying inflation is overall
+developing in line with a sustained return of inflation to target.
+The increase in compensation per employee moderated to 4.4 per cent in the third quarter from 4.7
+per cent in the second. Amid stable productivity, this contributed to slower growth in unit labour costs.
+Staff expect labour costs to increase more slowly over the projection horizon as a result of lower wage
+growth and higher productivity growth. Moreover, profits should continue to partially offset the effects
+of higher labour costs on prices, especially in the near term.
+We expect inflation to fluctuate around its current level in the near term, as previous sharp falls in
+energy prices continue to drop out of the annual rates. It should then settle sustainably at around the
+two per cent medium-term target. Easing labour cost pressures and the continuing impact of our past
+monetary policy tightening on consumer prices should help this process. Most measures of longer-
+term inflation expectations stand at around 2 per cent, and market-based indicators of medium to
+longer-term inflation compensation have decreased measurably since the Governing Council’s
+October meeting.
+Risk assessment
+The risks to economic growth remain tilted to the downside. The risk of greater friction in global trade
+could weigh on euro area growth by dampening exports and weakening the global economy. Lower
+confidence could prevent consumption and investment from recovering as fast as expected. This
+could be amplified by geopolitical risks, such as Russia’s unjustified war against Ukraine and the tragic
+conflict in the Middle East, which could disrupt energy supplies and global trade. Growth could also be
+lower if the lagged effects of monetary policy tightening last longer than expected. It could be higher if
+easier financing conditions and falling inflation allow domestic consumption and investment to rebound
+faster.
+Inflation could turn out higher if wages or profits increase by more than expected. Upside risks to
+inflation also stem from the heightened geopolitical tensions, which could push energy prices andfreight costs higher in the near term and disrupt global trade. Moreover, extreme weather events, and
+the unfolding climate crisis more broadly, could drive up food prices by more than expected. By
+contrast, inflation may surprise on the downside if low confidence and concerns about geopolitical
+events prevent consumption and investment from recovering as fast as expected, if monetary policy
+dampens demand more than expected, or if the economic environment in the rest of the world
+worsens unexpectedly. Greater friction in global trade would make the euro area inflation outlook more
+uncertain.
+Financial and monetary conditions
+Market interest rates in the euro area have declined further since our October meeting, reflecting the
+perceived worsening of the economic outlook. Although financing conditions remain restrictive, our
+interest rate cuts are gradually making it less expensive for firms and households to borrow.
+The average interest rate on new loans to firms was 4.7 per cent in October, more than half a
+percentage point below its peak a year earlier. The cost of issuing market-based debt has fallen by
+more than a percentage point since its peak. The average rate on new mortgages, at 3.6 per cent in
+October, is about half a percentage point lower than at its highest point in 2023, even though the
+average rate on the outstanding stock of mortgages is still set to rise.
+Bank lending to firms has gradually picked up from low levels, and increased by 1.2 per cent in
+October compared with a year earlier. Debt securities issued by firms were up 3.1% in annual terms,
+which was similar to the increase in the previous few months. Mortgage lending continued to rise
+gradually in October, with an annual growth rate of 0.8 per cent.
+In line with our monetary policy strategy, the Governing Council thoroughly assessed the links
+between monetary policy and financial stability. Euro area banks remain resilient and there are few
+signs of financial market stress. Financial stability risks nonetheless remain elevated. Macroprudential
+policy remains the first line of defence against the build-up of financial vulnerabilities, enhancing
+resilience and preserving macroprudential space.
+Conclusion
+The Governing Council today decided to lower the three key ECB interest rates by 25 basis points. In
+particular, the decision to lower the deposit facility rate – the rate through which we steer the monetary
+policy stance – is based on our updated assessment of the inflation outlook, the dynamics of
+underlying inflation and the strength of monetary policy transmission. We are determined to ensurethat inflation stabilises sustainably at our two per cent medium-term target. We will follow a data-
+dependent and meeting-by-meeting approach to determining the appropriate monetary policy stance.
+In particular, our interest rate decisions will be based on our assessment of the inflation outlook in light
+of the incoming economic and financial data, the dynamics of underlying inflation and the strength of
+monetary policy transmission. We are not pre-committing to a particular rate path.
+In any case, we stand ready to adjust all of our instruments within our mandate to ensure that inflation
+stabilises sustainably at our medium-term target and to preserve the smooth functioning of monetary
+policy transmission.
+We are now ready to take your questions."
 en,https://www.ecb.europa.eu/press/press_conference/monetary-policy-statement/2024/html/ecb.is241212~ce143b3bc8.en.html,12 December 2024,"Frankfurt am Main, 12 December 2024
 Good afternoon, the Vice-President and I welcome you to our press conference.
 The Governing Council today decided to lower the three key ECB interest rates by 25 basis points.In particular, the decision to lower the deposit facility rate – the rate through which we steer the monetary policy stance – is based on our updated assessment of the inflation outlook, the dynamics of underlying inflation and the strength of monetary policy transmission.
@@ -183,7 +1531,131 @@ EUR 1,616.2 billion
 [1] With the discontinuation of the reinvestments under the asset purchase programme, this column may sometimes show negative amounts. These are expected to be infrequent and would result from sales of securities conducted, for instance, for risk management purposes.
 The content and format of the weekly financial statement are set out in Annexes IV to VI of Guideline (EU) 2016/2249 of the European Central Bank of 3 November 2016 on the legal framework for accounting and financial reporting in the European System of Central Banks(ECB/2016/34).
 Reproduction is permitted provided that the source is acknowledged."
-en,https://www.ecb.europa.eu/pub/pdf/annex/ecb.sp241204_1_annex.en.pdf,4 December 2024,Error
+en,https://www.ecb.europa.eu/pub/pdf/annex/ecb.sp241204_1_annex.en.pdf,4 December 2024,"Introductory statement in three charts
+ECON hearing with the ECB President on 4 December 2024
+Real GDP growth Economic activity
+(quarter-on-quarter percentage change)
+Real GDP grew in the first three quarters of 2024,
+following five quarters of stagnation.
+Real GDP
+1.0 • Growth in the first half of 2024 was moderate, driven by
+exports and government consumption. Domestic private
+0.8
+demand remained weak.
+0.6
+• Real GDP rose by 0.4% in the third quarter, driven in
+0.4 part by temporary factors such as the Paris Olympics.
+Survey data suggest that growth will be weaker in the
+0.2
+short term. However, the economic recovery should
+0.0 gather some steam in the medium term.
+• Domestic demand should gradually recover as real
+-0.2
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3
+incomes rise and the impact of past tightening fades.
+2022 2022 2022 2022 2023 2023 2023 2023 2024 2024 2024
+• But there are large downside risks, including the high
+Source: Eurostat.
+Note: Flash estimate for the third quarter of 2024. geopolitical and trade policy uncertainty.
+Labour market Unemployment and job vacancy rate
+(left-hand scale: percentage of labour force; right-hand scale: percentage)
+The labour market has so far proven resilient, but there
+are increasing signs of softening labour demand.
+U Jon be m vap cl ao nym cye n rat tera (te
+right-hand scale)
+9.0 4.0
+• Unemployment remained at historically low levels (6.3%
+8.5 3.5
+in October, the same as in September).
+8.0 3.0
+• Employment continues to expand - by 300,000
+additional jobs in the third quarter. 7.5 2.5
+• A decline in the job vacancy rate to 2.5% in the third 7.0 2.0
+quarter indicates a softening in labour demand. Early 6.5 1.5
+indicators point to further softening in the fourth quarter. 6.0 1.0
+Q1 2019 Q3 2020 Q1 2022 Q3 2023 Q3 2024
+Source: Eurostat.
+Inflation Inflation
+(annual percentage changes and percentage point contributions)
+Euro area inflation is on a disinflationary path, with
+HICP inflation Non-energy industrial goods
+Energy Services some expected volatility in recent months.
+Food
+12 • Inflation rose to 2.3% in November, up from 2.0% in
+10
+October. The increase was mostly driven by an
+8
+expected moderation in the fall in energy prices.
+6
+• Inflation excluding energy and food remained at 2.7% in
+4
+November and is expected to hover around current
+2
+levels until early 2025.
+0
+-2 • After a temporary increase, inflation is expected to
+01/22 07/22 01/23 07/23 01/24 07/24
+decline to our 2% target in the course of next year.
+Sources: Eurostat.
+Note: Flash estimate for November 2024.
+WANT TO KNOW MORE?
+• Monetary policy statement, ECB press conference, 17 October 2024Topic 1: Monetary policy stance
+The ECB has been dialling back its restrictive monetary
+Deposit facility rate
+policy stance.
+(percentages)
+• The ECB steers the monetary policy stance through the
+deposit facility rate.
+5
+• At its most recent Governing Council meeting in
+4
+October, the ECB lowered the deposit facility rate by
+another 25 basis points, to 3.25%, as new data 3
+available at the time confirmed that the disinflationary
+process was well on track. 2
+The Governing Council will review its stance at its 1
+monetary policy meeting on 12 December.
+0
+• The Governing Council is not pre-committing to a
+-1
+particular rate path.
+2022 2023 2024
+Source: ECB.
+Topic 2: Economic governance framework
+The new economic governance framework strikes a
+Budget deficits and public investment
+balance between ensuring debt sustainability and
+(percentage of GDP)
+fostering strategic investments and growth-enhancing
+Euro area budget deficit Euroarea public investment
+reforms.
+4.0
+• Fiscal policy plays an important role in addressing
+3.5
+Europe’s substantial investment and reform needs.
+3.0
+• The new economic governance framework, which 2.5
+focuses on debt sustainability, should help expand the
+2.0
+fiscal space for public investment and reforms by
+1.5
+allowing Member States longer adjustment periods.
+1.0
+• Effective implementation can help to reduce debt,
+0.5
+thereby further increasing the space for strategic
+0.0
+investments at national and European level. 2023 2024 2025 2026
+• Public investments should be flanked by economic, Source: ECB calculations based on European Commission 2024 Autumn Forecast (AF).
+Notes: Projections of public deficit and public investment are based on 2024 AF.
+financial and structural reforms to ensure that Europe
+achieves its strategic objectives. Well-defined joint EU
+investments would allow harnessing economies of
+scale and addressing cross-border challenges.
+WANT TO KNOW MORE?
+• The path to the reformed EU fiscal framework: a monetary policy perspective, Occasional Paper Series, No 349, ECB,
+May 2024
+• Mind the gap: Europe’s strategic investment needs and how to support them, The ECB Blog, 27 June 2024"
 en,https://www.ecb.europa.eu/stats/ecb_statistics/reporting/IReF/html/index.en.html,4 December 2024,"The Integrated Reporting Framework (IReF) will integrate the Eurosystem’s statistical requirements for banks. It will be applicable across the euro area and may also be adopted by authorities in other EU Member States.
 The IReF focuses mainly on the requirements of the European Central Bank (ECB) in terms of banks’ balance sheet and interest rate statistics, securities holdings statistics and granular credit data. Data collection and transformation processes will also be standardised across countries. To maximise the benefits of integration, any relevant reporting obligations from national collection frameworks used by national central banks (NCBs) will also be taken into account. In its initial stage, the IReF will focus on ECB statistical frameworks that directly relate to banks’ balance sheet assets and liabilities but will at the same time also represent a first tangible step towards the integration of statistical and prudential reporting in Europe. It will not, however, cover ECB requirements relating to payments or money market statistics. The IReF is also designed to ensure proportionality by limiting the reporting obligations for small banks.
 IReF reporting is currently planned to start in the fourth quarter of 2029, as communicated in apress releasein December 2024.
@@ -245,3 +1717,355 @@ EUR 1,619.3 billion
 [1] With the discontinuation of the reinvestments under the asset purchase programme, this column may sometimes show negative amounts. These are expected to be infrequent and would result from sales of securities conducted, for instance, for risk management purposes.
 The content and format of the weekly financial statement are set out in Annexes IV to VI of Guideline (EU) 2016/2249 of the European Central Bank of 3 November 2016 on the legal framework for accounting and financial reporting in the European System of Central Banks(ECB/2016/34).
 Reproduction is permitted provided that the source is acknowledged."
+en,https://www.ecb.europa.eu/euro/digital_euro/progress/html/ecb.deprp202412.en.html,2 December 2024,"Search in this publication
+The Eurosystem’s digital euro project aims to make central bank money available to the public in digital form.As e-commerce evolves and people increasingly prefer to make payments using electronic means, a digital euro would bring the valued features of banknotes into the digital sphere.The aim of a digital euro is to bring value to consumers, merchants and intermediaries, while reducing Europe’s dependence on international card schemes and non-European digital payment wallet providers. A digital euro would complement cash by providing a digital payment option for consumers that is free, safe and easy to use. It would facilitate electronic payments everywhere in the euro area and increase competitiveness in the payments market for merchants.Payment service providers (PSPs) would be able to use the digital euro infrastructure to create new payment services, which would in turn increase innovation and competition in the European payments sector. A digital euro would also help regional and domestic European schemes to scale up the provision of their payment services in commercial bank money to a European scale by using the digital euro acceptance network. It would also expand the offer of private and public means of payment at the European level, thus supporting monetary sovereignty and strategic autonomy.
+On1 November 2023 a two-year preparation phase was launched, which is currently laying the groundwork for the potential issuance of a digital euro.The primary objectives during this phase include providing a draft digital euro scheme rulebook, selecting potential providers for the digital euro platform and infrastructure and conducting further experimentation and stakeholder consultations to ensure a digital euro would meet the highest standards of quality, security, privacy and usability. By the end of 2025 the Governing Council will decide whether to move on to the next phase of preparations. The decision on whether to issue a digital euro will only be taken by the Governing Council once the European Union’s legislative framework has been adopted.
+Timeline of the digital euro project
+
+This report outlines the progress of the digital euro project over the six-month period from May to October 2024[1].
+In the first quarter of 2024 the digital euro scheme’s Rulebook Development Group (RDG)[2]concluded a review of the first draft of the rulebook (version 0.8), having received and carefully assessed around 2,500 comments. Seven new RDG workstreams, composed of market participants and central banks, were launched in May 2024. These are focusing on key areas of the rulebook, including minimum user experience standards, risk management and implementation specifications. The next draft of the rulebook is expected to be finalised during the digital euro preparation phase and will include comments from the RDG interim review. The rulebookis essential to ensure that digital euro payments are accepted throughout the euro area, just like cash payments, and will work in a harmonised manner. The draft digital euro rulebook will be sufficiently flexible to accommodate any future adjustments and will be updated in accordance with the outcome of the digital euro legislative process.
+The project team has made progress on the sourcing procedures for selecting potential providers for a digital euro service platform (DESP).An invitation to tender for external components was published and offers are currently being assessed. In addition, Eurosystem national central banks have been invited to submit offers for internal components.
+Building on work carried out in the investigation phase, further experimentation and user research activities have now started, with the aim of gathering actionable insights into user preferences and informing decision-making.User research fieldwork started in September, the results of which will be published in mid-2025. Innovation partnerships with stakeholders, announced in a call in October, will test conditional payments and explore other innovative use cases for the digital euro, with an outcome report expected to be published in July 2025.
+Work has also progressed on the design of a digital euro, specifically on (i) the calibration of the digital euro holding limit and(ii) thedeployment of the offline digital euro solution on the secure elements of mobile devices.The digital euro holding limit was discussed in a technical session with member associations of the Euro Retail Payments Board (ERPB[3]) on 16 July 2024, who shared their views on the factors influencing its calibration. In parallel, deployment options for an offline digital euro were identified and potential roles for the Eurosystem were outlined. Technical talks were conducted with mobile device manufacturers and specialised technical service providers in October 2024.
+Extensive engagement with internal and external stakeholders has been a key focus.The ECB has been actively engaging with the public, market stakeholders and policymakers to ensure the digital euro meets the needs of all stakeholders, and with co-legislators to support the legislative process. Public communication efforts continued to focus on raising awareness about why a digital euro is needed and explaining its potential benefits for users. Market engagement took place through the ERPB technical sessions, the RDG and bilateral interactions, including meetings with the banking sector,merchants and consumers. Areas of focus in market engagement included the methodology for calibrating the holding limit and the fit of the digital euro in the payment ecosystem. At the technical level, the ECB has also engaged with European payment schemes and solutions and is talking to various international central banks about their respective progress in the area of central bank digital currency. The ECB continued to provide technical expertise in the context of legislative discussions with both the European Parliament and the Council of the European Union. Executive Board member Piero Cipollone took part in a public exchange of views on the digital euro at the meeting of the European Parliament’s Committee of Economic and Monetary Affairs on 23 September. The ECB also provided an update on the digital euro project to the Eurogroup in October 2024 and continues to extensively support the legislative debate at the technical level.
+We are now halfway through the digital euro project preparation phase and remain committed to providing regular updates on the ongoing work and the progress made.The next progress report on the preparation phase will be published in the second quarter of 2025.
+The digital euro scheme's rulebook will be based on extensive feedback from consumers, retailers, PSPs and central banks; it will be designed to be flexible to incorporate future adjustments.
+In 2024 the RDG focused on two main streams of activity: reviewingthe first draft of the rulebook, version 0.8, and continuing to develop additional sections.The RDG represents the supply and demand sides of the market, including consumers, retailers, PSPs, Eurosystem central banks and observers from EU institutions. Version 0.8 of the rulebook was made available to RDG members at the beginning of 2024. It was drafted in line with the ECB's design decisions and legislative proposals in their then-current state and included core chapters about the scope, key actors, functional and operational model and technical requirements of the digital euro scheme. As part of thereview process, RDG members carried out extensive consultations with stakeholders, resulting in approximately 2,500 comments that helped to further develop the draft. These comments were carefully assessed and taken on board through updates to specific sections, clarifications or further technical work. RDG members also shared their views on the opportunities and challenges associated with a digital euro.
+Comments from RDG members on first draft of the scheme rulebook, version 0.8
+
+The RDG continued to draft and refine additional sections of the rulebook.Seven new workstreams were launched in May 2024,[4]to develop additional sections of the rulebook that were not covered in the first draft, and to further expand existing sections, such as the workstreams covering minimum user experience standards, certification and approval frameworks and risk management. These workstreams, composed of experts nominated by RDG members, have provided detailed suggestions for various aspects of the digital euro rulebook.
+Details of the RDG review process, including the comprehensive feedback received on version 0.8 and the work of the different workstreams, were set out in theupdate published on 5 September2024.
+The rulebook will be essential to standardise how the digital euro is used and managed seamlessly in the euro area, irrespective of the country or PSP so that, like a banknote, it can be used everywhere in the euro area.It will be an open standard that can also be leveraged by pan-European schemes. The draft digital euro rulebook will be sufficiently flexible to accommodate any future developments and will be updated in accordance with the outcome of the digital euro legislative process.
+Comprehensive user research and technical experimentation activities are being conducted to gather actionable insights into user preferences and to develop innovative use cases for the digital euro.
+Designing a digital euro that delivers value for end users is essential. We are building on the work conducted during the investigation phase by undertaking further research.The ECB has engaged a specialised provider to conduct comprehensive user research, which began in September 2024[5]. The aim of this research is to gather actionable insights into user preferences to enhance the digital euro's value proposition. Key focus areas include (i) a general segmentation analysis of the broader population – to identify which population segments would use a digital euro and what their needs are, (ii) user preferences for holding limits that will inform the technical work on the calibration models for holding limits (see also Section 4.1), and (iii) in-depth studies carried out with vulnerable groups and small merchants. The methodologies employed include surveys, focus groups, peer interviews and a standing online community for rapid consultation with users. The research findings are expected to be published in mid-2025.
+In the area of technical experimentation with market participants, the goal is to stimulate engagement with the private sector through innovation partnerships and to further develop potentially innovative use cases.A workshop on the future of B2B payments was held on 9 October 2024as an open forum with industry and payment experts. Its purpose was to gather input on the challenges and needs arising from new use cases related to business-to-business (B2B) payments, beyond the current scope of the digital euro project on innovations in B2B payments.The workshop generated a large amount of interest, with more than 150 applications received. From these, six speakers were invited to take part from different sectors, including merchants, academics, representatives from financial services and banking and the travel industry. In parallel, the ECB has launched a joint (conceptual and technical) experimentation activity with PSPs and merchants to obtain a shared understanding of the requirements for facilitating conditional payments.A call was published on 31 October 2024and applicants will be invited to explore conditional payments and additional topics and use cases by the end of 2024. The work will take place in the first half of 2025. An outcome report that includes our partners’ conceptual and technical test findings is expected to be published in July 2025.
+Overview of user research and experimentation work
+The Eurosystem is developing a methodology for calibrating the digital euro holding limit, balancing optimal user experience with the need to maintain price and financial stability.
+The Eurosystem is fully committed to ensuring that the introduction of the digital euro aligns with a resilient financial environment, allowing an effective transmission of its monetary policy.Setting the holding limit, or ""calibration"", involves balancing optimal user experience with the need to preserve the transmission of monetary policy and financial stability. These three pillars mirror the principles recognised in Article 15 of the legislative proposal. The ECB has been working with experts from national central banks (NCBs) and national competent authorities to develop a methodology for the calibration of the digital euro holding limit. At the technical session on a digital euro held on 16 July 2024, ERPB member associations shared their views on the factors influencing this calibration.[6]The input has been incorporated with a view to developing a comprehensive methodology for calibrating the digital euro holding limit.
+Usability and ecosystem
+Monetary policy and its implementation
+Financial stability and banking supervision
+On 30 September 2024a workshop entitled “Digital euro and its holding limit: how to calibrate it?”brought Eurosystem researchers, experts and policymakers together to further explore the holding limit topic.Bilateral engagement with European credit sector associations and their member institutions provided additional occasions for in-depth discussions with banks on the factors influencing the calibration of the digital euro holding limit. An update on the methodology is expected to be discussed with ERPB associations at the technical level before the end of 2024.
+We are analysing how the offline digital euro solution can be deployed on the secure elements of mobile devices, holding technical talks with manufacturers and service providers.
+The ECB has made progress in analysing how to deploy the offline digital euro solution on the secure elements of mobile devices.The secure element is a specialised hardware chip that enables offline digital euro transactions to be carried out directly on users' mobile devices. Due to its highly controlled environment, deploying an application remotely is complex and involves multiple stakeholders. The ECB has identified specific deployment options and outlined potential roles for the Eurosystem. To further clarify these roles, technical talks were conducted with mobile device manufacturers and specialised technical service providers in October 2024[8]. Furthermore, the ECB has worked with industry standard-setting bodies to analyse how existing standards can support the integration of the offline digital euro into current point of sale (POS) terminals. As part of this collaboration, they explored implementation possibilities and identified appropriate reusable standards. These standards will form the foundation for the technical integration work to be carried out by the provider of the offline solution.
+Engaging with European stakeholders is at the core of the digital euro project. Over the past six months the Eurosystem has had extensive engagements with market stakeholders, co-legislators and the public.
+Engagement with the market aims to gather input on the digital euro's integration into the Europeanpayments ecosystem, address challenges and explore new use cases, to ensure that a digital euro meets the needs of all stakeholders.
+The ECB engaged with European market associations through two technical meetings of the ERPB, in which consumers, merchants and PSPs were represented.At the technical session held on 16 July 2024 the ECB provided an update on its plans to conduct user research[9](see also Section 3). At the same session, ERPB associations shared their views on the factors influencing the calibration of the digital euro holding limit (see also Section 4.1). This was complemented with a series of technical calls with bank experts to dive deeper into the factors considered for the calibration. The ERPB technical session held on 1 October 2024 included an update on the work of the digital euro scheme rulebook[10](see also Section 2) and kicked off the workstream set up to investigatehow a digital euro will fit into the Europeanpayments ecosystem (see also Section 5.2 for details). As part of this work, the ECB has planned multiple touchpoints with experts from ERPB associations, PSPs, merchant associations and consumer groups. ERPB technical sessions will continue throughout 2024 and 2025 and will cover, for example, the update on the methodology for calibrating digital euro holding limits.
+In addition to structured engagement with the market through the ERPB, the ECB has engaged with consumers and merchants as end users of the digital euro ondifferent occasions.On 6 June 2024 a presentation to introduce the digital euro project was delivered to electrical retailers at the Strategic Session of the Annual General Meeting of Euronics. On 24 September 2024 the ECB participated in EuroCommerce Payments Day 2024. The ECB has included merchants in the future user research activities, ensuring their needs and concerns are captured for the development of a digital euro (see also Section 3). In September 2024 Executive Board member Piero Cipollone engaged in a round table discussion with the European Consumer Organisation (BEUC) to discuss the impact and opportunities of a digital euro.
+Further bilateral engagement also took place with banks and other payment service providers.To gauge the potential for synergies by fostering standard harmonisation in the payments landscape, the ECB held bilateral meetings with major European payment schemes. By establishing open standards, the digital euro aims to integrate seamlessly into existing digital solutions and allow domestic schemes to leverage on a pan-European acceptance network (see also Section 5.2). Additionally, ECB President Christine Lagarde and Executive Board member Piero Cipollone took part in meetings with the European banking sector to discuss the implications and opportunities presented by a digital euro. These meetings emphasised the importance of collaborative efforts between major stakeholders to ensure its successful implementation and adoption.
+The ECB is also providing information about a digital euro to market participants in dedicated sessions.On 9 September 2024 the ECB hosted anonline focus session, attended by over 1,000 financial industry experts, to provide an update on (i) the progress of the digital euro project, (ii) the drafting of the digital euro rulebook, and (iii) the impact and opportunities of a digital euro for the financial industry.
+The digital euro project aims to provide a pan-European retail digital payment solution, reducing our dependence on non-European providers and enhancing the resilience and strategic autonomy of Europe's payment ecosystem.
+A technical workstream with market participants is investigating how a digital euro will fit into the European payment ecosystem.The current payment landscape in Europe lacks a pan-European retail digital payment solution. Domestic schemes and private initiatives are competing with international card schemes. The increasing popularity of digital wallets provided by non-European players poses an additional challenge. This reliance on non-European providers creates undesired dependence and potential vulnerabilities in payment resilience. The aim of a digital euro is to address these issues for the benefit of Europeans – consumers, merchants, PSPs[11]. Expanding our engagement with market stakeholders on the fit of the digital euro in the payment ecosystem,an ERPB technical session was held on 1 October 2024. The session first highlighted that a digital euro would guarantee merchants increased access to a European consumer base. Unlike most current payment methods, it would provide an efficient way to settle payments instantly. Additionally, there would be rules in place to ensure that the fees merchants pay are fair, given its status as legal tender. Second, consumers would have access to public money in digital form, which would provide a high level of privacy in their everyday payments and ultimately increase competition in the payments market. Third, the digital euro project has made deliberate choices to support the business models of European PSPs and strengthen their position vis-à-vis dominant international players, by:
+More technical sessions to be held between the fourth quarter of 2024 and the second quarter of 2025 will revolve around the themes of competition, synergies and business models for PSPs.Further discussions on the value proposition of the digital euro for merchants and consumers will follow in 2025.
+Engagements with co-legislators included workshops, technical input and bilateral outreach to discuss political priorities and facilitate progress in the legislative process.
+The ECB regularly exchanges views with the European co-legislators on its progress on the design of the digital euro.Executive Board memberPiero Cipollone took part in an exchange of views with the Committee on Economic and Monetary Affairs of the European Parliament on 23 September 2024to explain the role of the digital euro in enhancing the autonomy of the European payment sector.The ECB also provided technical updates to the Eurogroup on 7 October 2024, as part of its regular updates on the progress on the design of the digital euro.
+In parallel to the ECB’s digital euro project, the European co-legislators are discussing the legal framework for the digital euro, based on aproposal for a Digital Euro Regulation issued by the European Commission in July 2023. When requested, the ECB provides technical input that informs both the European Parliament and the Council on their work. This section provides a brief overview of the key areas in which the ECB has provided technical information in its role as an observer in the Council Working Party that discusses the legislative proposal. The technical information is based on its expertise and the views summarised in the Opinion on the legislative proposal as adopted by the Governing Council.
+In parallel, the ECB has continued to pursue a close cooperation with the European Commission.
+Public communication efforts have continued to focus on raising awareness about the necessity of a digital euro and explaining its potential benefits for users through various channels.These have included website and social media communications, as well as media outreach. Public communication activities are crucial to ensuring potential users can be informed with accurate and reliable information about the digital euro, its importance and the benefits it could bring to the European payment landscape and their daily lives. This was the key message of the latestECB blog post “The digital euro: what’s in it for you?”authored by Executive Board member Piero Cipollone. It was also published as an Op-Ed across the euro area, reaching millions of citizens.[13]As part of its public outreach work, the ECB also engages directly with consumer groups that are not represented in the ERPB, which are given the opportunity to share their perspectives at theECB’s civil society seminars. The most recent seminar took place on 8 July 2024 and provided an update on the project's progress[14].
+Over the coming months, the RDG will produce a revised draft of the rulebook, incorporating feedback from the first draft (version 0.8).This version will include new chapters and further develop existing ones, reflecting the ongoing work of the RDG. The final draft will be completed during the digital euro preparation phase. Additionally, a progress report on the RDG's work will be shared in the first quarter of 2025.
+Following the discussions and insights obtained from the October ERPB technical session, future sessions to be held between the fourth quarter of 2024 and the second quarter of 2025 will address the core themes of competition, synergies and business models for PSPs.The aim of these sessions is to identify benefits and reduce potential risks or unintended consequences of a digital euro. These discussions, enriched by internal analyses, will ensure that all viewpoints are considered.
+In the area of user research, the team will focus on a general segmentation analysis, user preferences for holding limits and in-depth studies carried out with vulnerable groups and small merchants.The research findings will be published in mid-2025. In parallel, the team will establish innovation partnerships with stakeholders to explore conditional payments and additional topics and use cases, with an outcome report expected to be published in July 2025.
+In 2025 the ECB aims to conclude the procurement to select potential providers for the DESP.This will include evaluating offers for external components from external providers and offers for internal components from Eurosystem NCBs.
+The ECB will continue to focus on public communication to raise awareness about a digital euro.The next ECB civil society seminar, focusing on financial inclusion, is scheduled for 13 November 2024 and will involve associations that protect the rights of consumers, citizens with disabilities and young people.
+The next progress report on the preparation phase will be published in the second quarter of 2025.
+© European Central Bank, 2024
+Postal address	60640 Frankfurt am Main, GermanyTelephone	+49 69 1344 0Websitewww.ecb.europa.eu
+All rights reserved. Reproduction for educational and non-commercial purposes is permitted provided that the source is acknowledged.
+The cut-off date for the data included in this report was 31 October 2024.
+For specific terminology please refer to theECB glossary(available in English only).
+PDF	ISBN 978-92-899-6959-8,	ISSN 2812-2682,	doi:10.2866/4728634	QB-01-24-058-EN-NHTML	ISBN 978-92-899-6958-1,	ISSN 2812-2682, 	doi:10.2866/7620092	QB-01-24-058-EN-Q
+All previous progress reports on the digital eurocan be accessed on the ECB’s website.
+The RDG was established in January 2023 and consists of representatives from the Eurosystem central banks and the European retail payments market, including consumers, retailers and intermediary associations.
+The ERPB includes representatives of consumers, retailers and PSPs. For more information, seeEuro Retail Payments Board (ERPB).
+Calls for the creation of seven additional workstreams of the digital euro Rulebook Development Group.
+This engagement builds onprevious findings from the investigation phasewhich were published in March 2023.
+Seewritten feedback from the associations on the factors influencing the holding limit calibration methodologyfollowing the July 2024 ERPB meeting and asummary of the input and how it has been incorporated.
+This feature automatically transfers excess digital euro to a linked bank account when the holding limit is reached. The mechanism ensures that users do not exceed their digital euro holding limits, which is crucial for maintaining financial stability and supporting the effectiveness of monetary policy.
+Seeinvitation to the technical talks.
+Update on user research and experimentation presented at the 12th ERPB technical session on digital euro.
+Status of the digital euro scheme’s rulebook presented at the 13th ERPB technical session on digital euro.
+For further discussion on this, see Cipollone, P., “Monetary sovereignty in the digital age: the case for a digital euro”, speech made at the Economics of Payments XIII Conference organised by the Oesterreichische Nationalbank, 27 September 2024..
+For more information about the digital euro and privacy, see theJune 2024 Progress report on the preparation phase of a digital euro.
+The ECB Blog post was published on 1 November on the ECB’s website and on 31 October by some euro area media outlets.
+Seeslidesandvideo recordingfrom the Civil Society Seminar: Laying the basis for a digital euro.
+DisclaimerPlease note that related topic tags are currently available for selected content only."
+en,https://www.ecb.europa.eu/euro/digital_euro/progress/html/ecb.deprp202412.en.html,2 December 2024,"Search in this publication
+The Eurosystem’s digital euro project aims to make central bank money available to the public in digital form.As e-commerce evolves and people increasingly prefer to make payments using electronic means, a digital euro would bring the valued features of banknotes into the digital sphere.The aim of a digital euro is to bring value to consumers, merchants and intermediaries, while reducing Europe’s dependence on international card schemes and non-European digital payment wallet providers. A digital euro would complement cash by providing a digital payment option for consumers that is free, safe and easy to use. It would facilitate electronic payments everywhere in the euro area and increase competitiveness in the payments market for merchants.Payment service providers (PSPs) would be able to use the digital euro infrastructure to create new payment services, which would in turn increase innovation and competition in the European payments sector. A digital euro would also help regional and domestic European schemes to scale up the provision of their payment services in commercial bank money to a European scale by using the digital euro acceptance network. It would also expand the offer of private and public means of payment at the European level, thus supporting monetary sovereignty and strategic autonomy.
+On1 November 2023 a two-year preparation phase was launched, which is currently laying the groundwork for the potential issuance of a digital euro.The primary objectives during this phase include providing a draft digital euro scheme rulebook, selecting potential providers for the digital euro platform and infrastructure and conducting further experimentation and stakeholder consultations to ensure a digital euro would meet the highest standards of quality, security, privacy and usability. By the end of 2025 the Governing Council will decide whether to move on to the next phase of preparations. The decision on whether to issue a digital euro will only be taken by the Governing Council once the European Union’s legislative framework has been adopted.
+Timeline of the digital euro project
+
+This report outlines the progress of the digital euro project over the six-month period from May to October 2024[1].
+In the first quarter of 2024 the digital euro scheme’s Rulebook Development Group (RDG)[2]concluded a review of the first draft of the rulebook (version 0.8), having received and carefully assessed around 2,500 comments. Seven new RDG workstreams, composed of market participants and central banks, were launched in May 2024. These are focusing on key areas of the rulebook, including minimum user experience standards, risk management and implementation specifications. The next draft of the rulebook is expected to be finalised during the digital euro preparation phase and will include comments from the RDG interim review. The rulebookis essential to ensure that digital euro payments are accepted throughout the euro area, just like cash payments, and will work in a harmonised manner. The draft digital euro rulebook will be sufficiently flexible to accommodate any future adjustments and will be updated in accordance with the outcome of the digital euro legislative process.
+The project team has made progress on the sourcing procedures for selecting potential providers for a digital euro service platform (DESP).An invitation to tender for external components was published and offers are currently being assessed. In addition, Eurosystem national central banks have been invited to submit offers for internal components.
+Building on work carried out in the investigation phase, further experimentation and user research activities have now started, with the aim of gathering actionable insights into user preferences and informing decision-making.User research fieldwork started in September, the results of which will be published in mid-2025. Innovation partnerships with stakeholders, announced in a call in October, will test conditional payments and explore other innovative use cases for the digital euro, with an outcome report expected to be published in July 2025.
+Work has also progressed on the design of a digital euro, specifically on (i) the calibration of the digital euro holding limit and(ii) thedeployment of the offline digital euro solution on the secure elements of mobile devices.The digital euro holding limit was discussed in a technical session with member associations of the Euro Retail Payments Board (ERPB[3]) on 16 July 2024, who shared their views on the factors influencing its calibration. In parallel, deployment options for an offline digital euro were identified and potential roles for the Eurosystem were outlined. Technical talks were conducted with mobile device manufacturers and specialised technical service providers in October 2024.
+Extensive engagement with internal and external stakeholders has been a key focus.The ECB has been actively engaging with the public, market stakeholders and policymakers to ensure the digital euro meets the needs of all stakeholders, and with co-legislators to support the legislative process. Public communication efforts continued to focus on raising awareness about why a digital euro is needed and explaining its potential benefits for users. Market engagement took place through the ERPB technical sessions, the RDG and bilateral interactions, including meetings with the banking sector,merchants and consumers. Areas of focus in market engagement included the methodology for calibrating the holding limit and the fit of the digital euro in the payment ecosystem. At the technical level, the ECB has also engaged with European payment schemes and solutions and is talking to various international central banks about their respective progress in the area of central bank digital currency. The ECB continued to provide technical expertise in the context of legislative discussions with both the European Parliament and the Council of the European Union. Executive Board member Piero Cipollone took part in a public exchange of views on the digital euro at the meeting of the European Parliament’s Committee of Economic and Monetary Affairs on 23 September. The ECB also provided an update on the digital euro project to the Eurogroup in October 2024 and continues to extensively support the legislative debate at the technical level.
+We are now halfway through the digital euro project preparation phase and remain committed to providing regular updates on the ongoing work and the progress made.The next progress report on the preparation phase will be published in the second quarter of 2025.
+The digital euro scheme's rulebook will be based on extensive feedback from consumers, retailers, PSPs and central banks; it will be designed to be flexible to incorporate future adjustments.
+In 2024 the RDG focused on two main streams of activity: reviewingthe first draft of the rulebook, version 0.8, and continuing to develop additional sections.The RDG represents the supply and demand sides of the market, including consumers, retailers, PSPs, Eurosystem central banks and observers from EU institutions. Version 0.8 of the rulebook was made available to RDG members at the beginning of 2024. It was drafted in line with the ECB's design decisions and legislative proposals in their then-current state and included core chapters about the scope, key actors, functional and operational model and technical requirements of the digital euro scheme. As part of thereview process, RDG members carried out extensive consultations with stakeholders, resulting in approximately 2,500 comments that helped to further develop the draft. These comments were carefully assessed and taken on board through updates to specific sections, clarifications or further technical work. RDG members also shared their views on the opportunities and challenges associated with a digital euro.
+Comments from RDG members on first draft of the scheme rulebook, version 0.8
+
+The RDG continued to draft and refine additional sections of the rulebook.Seven new workstreams were launched in May 2024,[4]to develop additional sections of the rulebook that were not covered in the first draft, and to further expand existing sections, such as the workstreams covering minimum user experience standards, certification and approval frameworks and risk management. These workstreams, composed of experts nominated by RDG members, have provided detailed suggestions for various aspects of the digital euro rulebook.
+Details of the RDG review process, including the comprehensive feedback received on version 0.8 and the work of the different workstreams, were set out in theupdate published on 5 September2024.
+The rulebook will be essential to standardise how the digital euro is used and managed seamlessly in the euro area, irrespective of the country or PSP so that, like a banknote, it can be used everywhere in the euro area.It will be an open standard that can also be leveraged by pan-European schemes. The draft digital euro rulebook will be sufficiently flexible to accommodate any future developments and will be updated in accordance with the outcome of the digital euro legislative process.
+Comprehensive user research and technical experimentation activities are being conducted to gather actionable insights into user preferences and to develop innovative use cases for the digital euro.
+Designing a digital euro that delivers value for end users is essential. We are building on the work conducted during the investigation phase by undertaking further research.The ECB has engaged a specialised provider to conduct comprehensive user research, which began in September 2024[5]. The aim of this research is to gather actionable insights into user preferences to enhance the digital euro's value proposition. Key focus areas include (i) a general segmentation analysis of the broader population – to identify which population segments would use a digital euro and what their needs are, (ii) user preferences for holding limits that will inform the technical work on the calibration models for holding limits (see also Section 4.1), and (iii) in-depth studies carried out with vulnerable groups and small merchants. The methodologies employed include surveys, focus groups, peer interviews and a standing online community for rapid consultation with users. The research findings are expected to be published in mid-2025.
+In the area of technical experimentation with market participants, the goal is to stimulate engagement with the private sector through innovation partnerships and to further develop potentially innovative use cases.A workshop on the future of B2B payments was held on 9 October 2024as an open forum with industry and payment experts. Its purpose was to gather input on the challenges and needs arising from new use cases related to business-to-business (B2B) payments, beyond the current scope of the digital euro project on innovations in B2B payments.The workshop generated a large amount of interest, with more than 150 applications received. From these, six speakers were invited to take part from different sectors, including merchants, academics, representatives from financial services and banking and the travel industry. In parallel, the ECB has launched a joint (conceptual and technical) experimentation activity with PSPs and merchants to obtain a shared understanding of the requirements for facilitating conditional payments.A call was published on 31 October 2024and applicants will be invited to explore conditional payments and additional topics and use cases by the end of 2024. The work will take place in the first half of 2025. An outcome report that includes our partners’ conceptual and technical test findings is expected to be published in July 2025.
+Overview of user research and experimentation work
+The Eurosystem is developing a methodology for calibrating the digital euro holding limit, balancing optimal user experience with the need to maintain price and financial stability.
+The Eurosystem is fully committed to ensuring that the introduction of the digital euro aligns with a resilient financial environment, allowing an effective transmission of its monetary policy.Setting the holding limit, or ""calibration"", involves balancing optimal user experience with the need to preserve the transmission of monetary policy and financial stability. These three pillars mirror the principles recognised in Article 15 of the legislative proposal. The ECB has been working with experts from national central banks (NCBs) and national competent authorities to develop a methodology for the calibration of the digital euro holding limit. At the technical session on a digital euro held on 16 July 2024, ERPB member associations shared their views on the factors influencing this calibration.[6]The input has been incorporated with a view to developing a comprehensive methodology for calibrating the digital euro holding limit.
+Usability and ecosystem
+Monetary policy and its implementation
+Financial stability and banking supervision
+On 30 September 2024a workshop entitled “Digital euro and its holding limit: how to calibrate it?”brought Eurosystem researchers, experts and policymakers together to further explore the holding limit topic.Bilateral engagement with European credit sector associations and their member institutions provided additional occasions for in-depth discussions with banks on the factors influencing the calibration of the digital euro holding limit. An update on the methodology is expected to be discussed with ERPB associations at the technical level before the end of 2024.
+We are analysing how the offline digital euro solution can be deployed on the secure elements of mobile devices, holding technical talks with manufacturers and service providers.
+The ECB has made progress in analysing how to deploy the offline digital euro solution on the secure elements of mobile devices.The secure element is a specialised hardware chip that enables offline digital euro transactions to be carried out directly on users' mobile devices. Due to its highly controlled environment, deploying an application remotely is complex and involves multiple stakeholders. The ECB has identified specific deployment options and outlined potential roles for the Eurosystem. To further clarify these roles, technical talks were conducted with mobile device manufacturers and specialised technical service providers in October 2024[8]. Furthermore, the ECB has worked with industry standard-setting bodies to analyse how existing standards can support the integration of the offline digital euro into current point of sale (POS) terminals. As part of this collaboration, they explored implementation possibilities and identified appropriate reusable standards. These standards will form the foundation for the technical integration work to be carried out by the provider of the offline solution.
+Engaging with European stakeholders is at the core of the digital euro project. Over the past six months the Eurosystem has had extensive engagements with market stakeholders, co-legislators and the public.
+Engagement with the market aims to gather input on the digital euro's integration into the Europeanpayments ecosystem, address challenges and explore new use cases, to ensure that a digital euro meets the needs of all stakeholders.
+The ECB engaged with European market associations through two technical meetings of the ERPB, in which consumers, merchants and PSPs were represented.At the technical session held on 16 July 2024 the ECB provided an update on its plans to conduct user research[9](see also Section 3). At the same session, ERPB associations shared their views on the factors influencing the calibration of the digital euro holding limit (see also Section 4.1). This was complemented with a series of technical calls with bank experts to dive deeper into the factors considered for the calibration. The ERPB technical session held on 1 October 2024 included an update on the work of the digital euro scheme rulebook[10](see also Section 2) and kicked off the workstream set up to investigatehow a digital euro will fit into the Europeanpayments ecosystem (see also Section 5.2 for details). As part of this work, the ECB has planned multiple touchpoints with experts from ERPB associations, PSPs, merchant associations and consumer groups. ERPB technical sessions will continue throughout 2024 and 2025 and will cover, for example, the update on the methodology for calibrating digital euro holding limits.
+In addition to structured engagement with the market through the ERPB, the ECB has engaged with consumers and merchants as end users of the digital euro ondifferent occasions.On 6 June 2024 a presentation to introduce the digital euro project was delivered to electrical retailers at the Strategic Session of the Annual General Meeting of Euronics. On 24 September 2024 the ECB participated in EuroCommerce Payments Day 2024. The ECB has included merchants in the future user research activities, ensuring their needs and concerns are captured for the development of a digital euro (see also Section 3). In September 2024 Executive Board member Piero Cipollone engaged in a round table discussion with the European Consumer Organisation (BEUC) to discuss the impact and opportunities of a digital euro.
+Further bilateral engagement also took place with banks and other payment service providers.To gauge the potential for synergies by fostering standard harmonisation in the payments landscape, the ECB held bilateral meetings with major European payment schemes. By establishing open standards, the digital euro aims to integrate seamlessly into existing digital solutions and allow domestic schemes to leverage on a pan-European acceptance network (see also Section 5.2). Additionally, ECB President Christine Lagarde and Executive Board member Piero Cipollone took part in meetings with the European banking sector to discuss the implications and opportunities presented by a digital euro. These meetings emphasised the importance of collaborative efforts between major stakeholders to ensure its successful implementation and adoption.
+The ECB is also providing information about a digital euro to market participants in dedicated sessions.On 9 September 2024 the ECB hosted anonline focus session, attended by over 1,000 financial industry experts, to provide an update on (i) the progress of the digital euro project, (ii) the drafting of the digital euro rulebook, and (iii) the impact and opportunities of a digital euro for the financial industry.
+The digital euro project aims to provide a pan-European retail digital payment solution, reducing our dependence on non-European providers and enhancing the resilience and strategic autonomy of Europe's payment ecosystem.
+A technical workstream with market participants is investigating how a digital euro will fit into the European payment ecosystem.The current payment landscape in Europe lacks a pan-European retail digital payment solution. Domestic schemes and private initiatives are competing with international card schemes. The increasing popularity of digital wallets provided by non-European players poses an additional challenge. This reliance on non-European providers creates undesired dependence and potential vulnerabilities in payment resilience. The aim of a digital euro is to address these issues for the benefit of Europeans – consumers, merchants, PSPs[11]. Expanding our engagement with market stakeholders on the fit of the digital euro in the payment ecosystem,an ERPB technical session was held on 1 October 2024. The session first highlighted that a digital euro would guarantee merchants increased access to a European consumer base. Unlike most current payment methods, it would provide an efficient way to settle payments instantly. Additionally, there would be rules in place to ensure that the fees merchants pay are fair, given its status as legal tender. Second, consumers would have access to public money in digital form, which would provide a high level of privacy in their everyday payments and ultimately increase competition in the payments market. Third, the digital euro project has made deliberate choices to support the business models of European PSPs and strengthen their position vis-à-vis dominant international players, by:
+More technical sessions to be held between the fourth quarter of 2024 and the second quarter of 2025 will revolve around the themes of competition, synergies and business models for PSPs.Further discussions on the value proposition of the digital euro for merchants and consumers will follow in 2025.
+Engagements with co-legislators included workshops, technical input and bilateral outreach to discuss political priorities and facilitate progress in the legislative process.
+The ECB regularly exchanges views with the European co-legislators on its progress on the design of the digital euro.Executive Board memberPiero Cipollone took part in an exchange of views with the Committee on Economic and Monetary Affairs of the European Parliament on 23 September 2024to explain the role of the digital euro in enhancing the autonomy of the European payment sector.The ECB also provided technical updates to the Eurogroup on 7 October 2024, as part of its regular updates on the progress on the design of the digital euro.
+In parallel to the ECB’s digital euro project, the European co-legislators are discussing the legal framework for the digital euro, based on aproposal for a Digital Euro Regulation issued by the European Commission in July 2023. When requested, the ECB provides technical input that informs both the European Parliament and the Council on their work. This section provides a brief overview of the key areas in which the ECB has provided technical information in its role as an observer in the Council Working Party that discusses the legislative proposal. The technical information is based on its expertise and the views summarised in the Opinion on the legislative proposal as adopted by the Governing Council.
+In parallel, the ECB has continued to pursue a close cooperation with the European Commission.
+Public communication efforts have continued to focus on raising awareness about the necessity of a digital euro and explaining its potential benefits for users through various channels.These have included website and social media communications, as well as media outreach. Public communication activities are crucial to ensuring potential users can be informed with accurate and reliable information about the digital euro, its importance and the benefits it could bring to the European payment landscape and their daily lives. This was the key message of the latestECB blog post “The digital euro: what’s in it for you?”authored by Executive Board member Piero Cipollone. It was also published as an Op-Ed across the euro area, reaching millions of citizens.[13]As part of its public outreach work, the ECB also engages directly with consumer groups that are not represented in the ERPB, which are given the opportunity to share their perspectives at theECB’s civil society seminars. The most recent seminar took place on 8 July 2024 and provided an update on the project's progress[14].
+Over the coming months, the RDG will produce a revised draft of the rulebook, incorporating feedback from the first draft (version 0.8).This version will include new chapters and further develop existing ones, reflecting the ongoing work of the RDG. The final draft will be completed during the digital euro preparation phase. Additionally, a progress report on the RDG's work will be shared in the first quarter of 2025.
+Following the discussions and insights obtained from the October ERPB technical session, future sessions to be held between the fourth quarter of 2024 and the second quarter of 2025 will address the core themes of competition, synergies and business models for PSPs.The aim of these sessions is to identify benefits and reduce potential risks or unintended consequences of a digital euro. These discussions, enriched by internal analyses, will ensure that all viewpoints are considered.
+In the area of user research, the team will focus on a general segmentation analysis, user preferences for holding limits and in-depth studies carried out with vulnerable groups and small merchants.The research findings will be published in mid-2025. In parallel, the team will establish innovation partnerships with stakeholders to explore conditional payments and additional topics and use cases, with an outcome report expected to be published in July 2025.
+In 2025 the ECB aims to conclude the procurement to select potential providers for the DESP.This will include evaluating offers for external components from external providers and offers for internal components from Eurosystem NCBs.
+The ECB will continue to focus on public communication to raise awareness about a digital euro.The next ECB civil society seminar, focusing on financial inclusion, is scheduled for 13 November 2024 and will involve associations that protect the rights of consumers, citizens with disabilities and young people.
+The next progress report on the preparation phase will be published in the second quarter of 2025.
+© European Central Bank, 2024
+Postal address	60640 Frankfurt am Main, GermanyTelephone	+49 69 1344 0Websitewww.ecb.europa.eu
+All rights reserved. Reproduction for educational and non-commercial purposes is permitted provided that the source is acknowledged.
+The cut-off date for the data included in this report was 31 October 2024.
+For specific terminology please refer to theECB glossary(available in English only).
+PDF	ISBN 978-92-899-6959-8,	ISSN 2812-2682,	doi:10.2866/4728634	QB-01-24-058-EN-NHTML	ISBN 978-92-899-6958-1,	ISSN 2812-2682, 	doi:10.2866/7620092	QB-01-24-058-EN-Q
+All previous progress reports on the digital eurocan be accessed on the ECB’s website.
+The RDG was established in January 2023 and consists of representatives from the Eurosystem central banks and the European retail payments market, including consumers, retailers and intermediary associations.
+The ERPB includes representatives of consumers, retailers and PSPs. For more information, seeEuro Retail Payments Board (ERPB).
+Calls for the creation of seven additional workstreams of the digital euro Rulebook Development Group.
+This engagement builds onprevious findings from the investigation phasewhich were published in March 2023.
+Seewritten feedback from the associations on the factors influencing the holding limit calibration methodologyfollowing the July 2024 ERPB meeting and asummary of the input and how it has been incorporated.
+This feature automatically transfers excess digital euro to a linked bank account when the holding limit is reached. The mechanism ensures that users do not exceed their digital euro holding limits, which is crucial for maintaining financial stability and supporting the effectiveness of monetary policy.
+Seeinvitation to the technical talks.
+Update on user research and experimentation presented at the 12th ERPB technical session on digital euro.
+Status of the digital euro scheme’s rulebook presented at the 13th ERPB technical session on digital euro.
+For further discussion on this, see Cipollone, P., “Monetary sovereignty in the digital age: the case for a digital euro”, speech made at the Economics of Payments XIII Conference organised by the Oesterreichische Nationalbank, 27 September 2024..
+For more information about the digital euro and privacy, see theJune 2024 Progress report on the preparation phase of a digital euro.
+The ECB Blog post was published on 1 November on the ECB’s website and on 31 October by some euro area media outlets.
+Seeslidesandvideo recordingfrom the Civil Society Seminar: Laying the basis for a digital euro.
+DisclaimerPlease note that related topic tags are currently available for selected content only."
+en,https://www.ecb.europa.eu/euro/digital_euro/timeline/profuse/shared/pdf/ecb.derdgp241129_call-workstream-A3-Brand-Rules.en.pdf,29 November 2024,"ECB-PUBLIC
+Call for candidates to participate in the digital euro scheme
+workstream A3: “Brand rules”
+The European Central Bank (ECB) is inviting leading experts in branding and
+communication with advanced knowledge of payments and digital money to
+contribute to the brand rules workstream. This workstream, along with several others,
+is part of the Rulebook Development Group set up by the Chair of the digital euro
+scheme to support the drafting of the rulebook.
+The main objective of workstream A3 is to develop a proposal for brand rules that
+participants in the digital euro scheme, i.e. supervised payment service providers
+(PSPs), will adopt for their end-user solutions. This excludes brand strategy,
+expression and the visual identity of the digital euro.
+The proposal should include content recommendations for the following section of
+the rulebook:
+• Annexes (Implementation Specifications): Brand rules
+The workstream will consist of market participants and Eurosystem representatives.
+Candidates should be proficient in English as a working language and have
+experience of working in multi-stakeholder groups.
+The workstream is to hold frequent remote meetings over a period of six weeks,
+starting between February and March 2025. Members of the workstream will be
+expected to participate in all meetings and actively contribute to the deliverables.
+Candidates interested in joining should submit a curriculum vitae (CV) highlighting
+their experience in the areas mentioned above. They should also answer the
+following questions in writing, in a total of no more than 3,500 words:
+1. In your opinion what brand rules need to be established for the application of
+the digital euro brand by PSPs?
+2. What brand rules do you suggest introducing to ensure a consistent brand
+experience for end users?
+3. What considerations should guide the Eurosystem when deciding on the
+brand rules to be established and which aspects might be more effectively
+managed by the market?
+Candidates are also asked to include a letter of consent from their employer. A
+nomination letter from either a representative payment stakeholder association or aECB-PUBLIC
+ECB-UNRESTRICTED
+member of the digital euro scheme Rulebook Development Group would be
+considered an advantage. The requisite documents should be sent to the email
+address DigitalEuro-RBD@ecb.europa.eu by 29 December 2024.
+Participants are expected to contribute in their personal capacity. However, if a
+participant is sponsored by a specific stakeholder association, they are also expected
+to collaborate with that association. This includes keeping it informed about the
+progress of their work and gathering feedback and input that aligns with the
+association’s goals.
+All applications will be treated confidentially. The list of successful candidates will,
+however, be made public.
+The ECB is an inclusive institution, and we strive to reflect the diversity of the
+population we serve. We encourage you to apply irrespective of age, disability,
+ethnicity, gender, gender identity, race, religious beliefs, sexual orientation or other
+characteristics.
+Participation in the workstream will not be remunerated. All intellectual property
+rights, copyright and rights to development and disposal related to the deliverables of
+the workstream shall reside exclusively with the ECB.
+Page 2 of 2"
+en,https://www.ecb.europa.eu/press/intro/news/html/ecb.mipnews241129.en.html,29 November 2024,"29 November 2024
+The European Central Bank (ECB) is inviting leading experts in branding and communication with advanced knowledge of payments and digital money to contribute to the brand rules workstream. This workstream, along with several others, is part of theRulebook Development Groupset up by the Chair of the digital euro scheme to support the drafting of the rulebook.
+The main objective of workstream A3 is to develop a proposal for brand rules that participants in the digital euro scheme, i.e. supervised payment service providers (PSPs), will adopt for their end-user solutions. This excludes brand strategy, expression and the visual identity of the digital euro.
+The proposal should include content recommendations for the following section of the rulebook:
+The workstream will consist of market participants and Eurosystem representatives. Candidates should be proficient in English as a working language and have experience of working in multi-stakeholder groups.
+The workstream is to hold frequent remote meetings over a period of six weeks, starting between February and March 2025. Members of the workstream will be expected to participate in all meetings and actively contribute to the deliverables.
+Candidates interested in joining should submit a curriculum vitae (CV) highlighting their experience in the areas mentioned above. They should also answer the following questions in writing, in a total of no more than 3,500 words:
+Candidates are also asked to include a letter of consent from their employer. A nomination letter from either a representative payment stakeholder association or a member of the digital euro scheme Rulebook Development Group would be considered an advantage. The requisite documents should be sent to the email addressDigitalEuro-RBD@ecb.europa.euby 29 December 2024.
+Participants are expected to contribute in their personal capacity. However, if a participant is sponsored by a specific stakeholder association, they are also expected to collaborate with that association. This includes keeping it informed about the progress of their work and gathering feedback and input that aligns with the association’s goals.
+All applications will be treated confidentially. The list of successful candidates will, however, be made public.
+The ECB is an inclusive institution, and we strive to reflect the diversity of the population we serve. We encourage you to apply irrespective of age, disability, ethnicity, gender, gender identity, race, religious beliefs, sexual orientation or other characteristics.
+Participation in the workstream will not be remunerated. All intellectual property rights, copyright and rights to development and disposal related to the deliverables of the workstream shall reside exclusively with the ECB.
+DisclaimerPlease note that related topic tags are currently available for selected content only."
+en,https://www.ecb.europa.eu/press/pdf/md/ecb.md2410_annex~aa40d10ce9.en.pdf,28 November 2024,"1Monetarydevelopmentsintheeuroarea: October2024
+(EURbillionsandannualpercentagechanges;dataadjustedforseasonaleffectsa))
+End-of-
+month Monthlyflow Annualgrowthrate
+level
+Oct Aug Sep Oct Aug Sep Oct
+2024 2024 2024 2024 2024 2024 2024
+COMPONENTSOFM3
+1.M3 16577 66 97 24 2.9 3.2 3.4
+1.1.M2 15425 43 88 15 1.7 2.0 2.4
+1.1.1.M1 10440 21 56 49 -2.0 -1.3 0.2
+Currencyincirculation 1546 2 3 4 0.3 0.5 0.7
+Overnightdeposits 8895 19 53 45 -2.5 -1.6 0.1
+1.1.2.Othershort-termdeposits(M2-M1) 4985 22 32 -34 10.5 9.6 7.3
+Depositswithanagreedmaturityofuptotwoyears 2557 21 33 -37 26.2 22.9 16.9
+Depositsredeemableatnoticeofuptothreemonths 2428 2 -2 3 -2.2 -1.7 -1.1
+1.2.Marketableinstruments(M3-M2) 1152 23 9 9 22.6 21.6 20.0
+Repurchaseagreements 249 17 -5 11 79.0 61.5 55.6
+Moneymarketfundshares 853 11 17 -5 19.0 19.2 18.5
+Debtsecuritiesissuedwithamaturityofuptotwoyears 50 -6 -3 3 -37.6 -34.4 -37.2
+COUNTERPARTSOFM3
+MFIliabilities:
+2.Liabilitiestocentralgovernment b) 445 14 -16 43 -4.6 -11.2 0.7
+3.Longer-termliabilitiestoothereuroarearesidents 7751 27 33 9 4.0 3.9 3.7
+3.1.Depositswithanagreedmaturityofovertwoyears 1832 2 11 -3 0.2 0.0 0.1
+3.2.Depositsredeemableatnoticeofoverthreemonths 116 1 2 1 63.4 54.7 47.0
+3.3.Debtsecuritiesissuedwithamaturityofovertwoyears 2561 21 14 5 9.5 9.6 8.7
+3.4.Capitalandreserves 3242 2 6 5 0.7 0.6 0.8
+MFIassets:
+4.Claimsoneuroarearesidents 21906 33 17 35 0.5 0.5 0.6
+4.1.Claimsongeneralgovernment 6246 9 -5 8 -1.1 -1.2 -0.8
+Loans 987 3 -2 10 -0.6 -1.0 -0.1
+Debtsecurities 5233 7 -3 -2 -1.2 -1.2 -1.0
+Equity 26 0 0 0 2.5 2.8 2.3
+4.2.Claimsontheprivatesector c) 15660 23 22 27 1.2 1.2 1.2
+Loans 13165 15 15 21 1.3 1.3 1.2
+Adjustedloans d) 13415 16 15 39 1.5 1.6 1.6
+Debtsecurities 1566 10 4 4 -1.5 -1.4 -0.5
+Equity 623 -2 1 1 3.9 4.5 3.8
+Sharesissuedbyinvestmentfundsotherthanmoneymarketfunds 307 0 1 2 4.1 3.8 3.8
+5.Netexternalassets 2599 46 61 44 - - -
+6.OthercounterpartsofM3(residual) 269 28 36 -3 - - -
+ofwhich:
+6.1.Reposwithcentralcounterparties(liabilities) e) 170 26 -8 -15 19.5 22.1 5.6
+6.2.Reverserepostocentralcounterparties(assets) e) 172 16 18 -16 7.6 15.4 13.7
+a)Figuresmaynotaddupduetorounding.Theinformationinthistableisbasedontheconsolidatedbalancesheetofmonetaryfinancialinstitutions(MFIs)locatedintheeuroarea.
+TheMFIsectorcomprisestheEurosystem,deposit-takingcorporationsexceptcentralbanksandmoneymarketfunds.
+Monthlyflowsarederivedfromdifferencesinlevelsexcludingchangesthatdonotarisefromtransactions,suchasrevaluations,exchangeratevariationsandstatistical
+reclassifications.
+M3comprisesliabilitiesofMFIs,aswellasshort-termdepositliabilitiesofpostofficesandspecificcentralgovernmententities,vis-à-visnon-MFIeuroarearesidentsotherthancentral
+government.
+b)IncludesholdingsofthecentralgovernmentofdepositswiththeMFIsectorandofsecuritiesissuedbytheMFIsector.
+c)Privatesectorreferstoeuroareanon-MFIsexcludinggeneralgovernment.
+d)LoansadjustedfortheeffectsoftransferstoandfromMFIbalancesheets,aswellasfornotionalcashpoolingservicesprovidedbyMFIs.ForfurtherbreakdownsseeTable4.
+e)Theseriesisnotadjustedforseasonaleffects.
+Monetarydevelopmentsintheeuroarea 12ContributionstotheM3annualgrowthrate: October2024
+(contributionsintermsoftheM3annualpercentagechange;dataadjustedforseasonaleffects a))
+Aug2024 Sep2024 Oct2024
+COMPONENTSOFM3
+1.M1 -1.4 -0.8 0.1
+1.1.Currencyincirculation 0.0 0.0 0.1
+1.2.Overnightdeposits -1.4 -0.9 0.1
+2.M2-M1(othershort-termdeposits) 3.0 2.7 2.1
+3.M3-M2(marketableinstruments) 1.3 1.3 1.2
+COUNTERPARTSOFM3
+4.Claimsontheprivatesector 1.1 1.1 1.2
+5.Claimsongeneralgovernment -0.4 -0.5 -0.3
+6.Netexternalassets 4.0 3.9 3.9
+7.Longer-termliabilities(invertedsign) b) -1.8 -1.8 -1.7
+8.Remainingcounterparts 0.0 0.4 0.5
+M3(sumofitems1to3,oritems4to8) 2.9 3.2 3.4
+a)Figuresmaynotaddupduetorounding.
+b)Longer-termliabilitiestoeuroarearesidentsexcludingcentralgovernment.
+Monetarydevelopmentsintheeuroarea 23DepositsinM3: October2024
+(EURbillionsandannualpercentagechanges;dataadjustedforseasonaleffectsa))
+End-of-
+month Monthlyflow Annualgrowthrate
+level
+Oct Aug Sep Oct Aug Sep Oct
+2024 2024 2024 2024 2024 2024 2024
+Totaldeposits 14129 58 80 22 2.6 2.8 3.2
+1.Depositsplacedbyhouseholds b) 8659 8 31 36 2.3 2.8 3.2
+1.1.Overnightdeposits 5123 0 3 29 -3.4 -2.7 -1.2
+1.2.Depositswithanagreedmaturityofuptotwoyears 1268 6 28 7 51.9 48.0 39.1
+1.3.Depositsredeemableatnoticeofuptothreemonths 2267 2 0 1 -2.1 -1.4 -0.9
+1.4.Repurchaseagreements 1 0 0 0 16.3 21.7 25.2
+2.Depositsplacedbynon-financialcorporations 3378 3 2 9 1.8 1.6 1.7
+2.1.Overnightdeposits 2422 0 9 15 -2.0 -1.0 0.5
+2.2.Depositswithanagreedmaturityofuptotwoyears 816 3 -8 -9 15.5 11.5 5.9
+2.3.Depositsredeemableatnoticeofuptothreemonths 127 -1 -1 2 -3.8 -4.2 -2.5
+2.4.Repurchaseagreements 13 0 1 2 10.4 -15.0 17.5
+3.Depositsplacedbyinvestmentfundsotherthan 444 8 6 -6 11.7 11.0 8.8
+moneymarketfunds
+3.1.Overnightdeposits 355 3 5 -2 6.8 6.7 5.4
+3.2.Depositswithanagreedmaturityofuptotwoyears 39 1 0 -4 -5.3 -2.2 -9.2
+3.3.Depositsredeemableatnoticeofuptothreemonths 2 0 0 0 -20.6 -20.6 -6.7
+3.4.Repurchaseagreements 47 3 1 0 137.1 98.0 84.7
+4.Depositsplacedbyinsurancecorporations 220 3 13 -10 -1.3 10.0 3.6
+andpensionfunds
+4.1.Overnightdeposits 150 -1 7 -2 -5.6 0.0 2.3
+4.2.Depositswithanagreedmaturityofuptotwoyears 37 1 1 -4 -3.5 2.1 -6.5
+4.3.Depositsredeemableatnoticeofuptothreemonths 3 0 0 0 -5.6 -6.1 -5.1
+4.4.Repurchaseagreements 30 4 5 -4 44.1 110.6 38.6
+5.Depositsplacedbyothernon-monetary 877 32 22 -8 9.6 4.9 7.7
+financialcorporations c)
+5.1.Overnightdeposits 471 10 19 3 1.3 1.1 7.6
+5.2.Depositswithanagreedmaturityofuptotwoyears 250 12 8 -17 8.1 -0.3 -3.7
+5.3.Depositsredeemableatnoticeofuptothreemonths 18 0 0 0 6.0 0.3 5.1
+5.4.Repurchaseagreements c) 138 10 -5 6 61.4 40.8 37.1
+6.Depositsplacedbyothergeneralgovernment 551 4 7 -1 -3.0 -1.6 0.6
+a)Figuresmaynotaddupduetorounding.Theinformationinthistableisbasedontheconsolidatedbalancesheetofmonetaryfinancialinstitutions(MFIs)locatedintheeuroarea.
+TheMFIsectorcomprisestheEurosystem,deposit-takingcorporationsexceptcentralbanksandmoneymarketfunds.
+Monthlyflowsarederivedfromdifferencesinlevelsexcludingchangesthatdonotarisefromtransactions,suchasexchangeratevariationsandstatisticalreclassifications.
+b)Includesdepositsbynon-profitinstitutionsservinghouseholds.
+c)Excludesrepurchaseagreementswithcentralcounterparties.
+Monetarydevelopmentsintheeuroarea 34Adjustedloanstotheprivatesector: October2024a)
+(EURbillionsandannualpercentagechanges;dataadjustedforseasonaleffectsb))
+End-of-
+month Monthlyflow Annualgrowthrate
+level
+Oct Aug Sep Oct Aug Sep Oct
+2024 2024 2024 2024 2024 2024 2024
+1.Loanstohouseholds c) 6907 7 9 9 0.6 0.7 0.8
+1.1.Creditforconsumption 777 3 2 3 3.1 3.0 3.2
+1.2.Lendingforhousepurchase 5441 6 7 6 0.6 0.7 0.8
+1.3.Otherlending 690 -1 0 0 -2.4 -2.1 -1.8
+ofwhich:soleproprietors 356 -1 -1 -1 -2.8 -2.7 -2.7
+2.Loanstonon-financialcorporations 5159 -2 16 3 0.8 1.1 1.2
+2.1.upto1year 821 -10 10 -4 -0.6 0.9 1.4
+2.2.over1yearandupto5years 1108 2 5 -1 -0.2 0.3 0.1
+2.3.over5years 3230 6 1 7 1.6 1.4 1.5
+3.Loanstoinvestmentfundsotherthan 175 3 2 -1 7.3 5.8 5.5
+moneymarketfunds
+4.Loanstoinsurancecorporationsandpensionfunds 126 3 -2 1 5.6 -1.4 0.6
+5.Loanstoothernon-monetaryfinancialcorporationsd) 1048 4 -10 27 11.3 10.5 9.9
+a)LoansadjustedfortheeffectsoftransferstoandfromMFIbalancesheets,aswellasfornotionalcashpoolingservicesprovidedbyMFIs.Dataontransferredloansthathavebeen
+derecognisedfromMFIbalancesheetsareincludedinthesefigures,whereavailable.
+Monthlyflowsarederivedfromdifferencesinlevelsexcludingchangesthatdonotarisefromtransactions,suchasrevaluations,exchangeratevariationsandstatistical
+reclassifications.
+b)Figuresmaynotaddupduetorounding.
+c)Includesloanstonon-profitinstitutionsservinghouseholds.
+d)Excludesreverserepostocentralcounterparties.
+Monetarydevelopmentsintheeuroarea 4"
