@@ -116,7 +116,8 @@ def get_urls(url, page_source):
                         'url': url_root + lang["href"],
                         'date': dt.text}
             index += 1
-            
+    
+    pd.DataFrame.from_dict(d, orient='index').to_csv('data/url.csv')
 
     return pd.DataFrame.from_dict(d, orient='index')
 
