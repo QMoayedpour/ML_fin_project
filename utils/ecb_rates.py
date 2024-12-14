@@ -1,7 +1,9 @@
+import pandas as pd
+
 def get_ecb_rates():
     data_rates = pd.read_csv(
 
-    'data/ECB Data Portal daily_20241213172734.csv',
+    'data/ecb_rates.csv',
     index_col=0,
     header=0,
     names=[
