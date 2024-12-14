@@ -4,7 +4,8 @@ setup(
     name="ML_fin",
     version="0.1.0",
     packages=find_packages(),
-    install_requires=["numpy", "pandas", "tqdm", "matplotlib", "scikit-learn"],
+    install_requires=["numpy", "pandas", "tqdm", "matplotlib", "scikit-learn",
+                      "yfinance",],
     extras_require={
         'scrap': [
             'bs4',
