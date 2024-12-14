@@ -43,7 +43,6 @@ def extract_text_from_pdf(url):
     
     os.remove("temp.pdf")
 
-    print(text)
     return text
 
 def create_webdriver(driver_path=None, active_options=False):
