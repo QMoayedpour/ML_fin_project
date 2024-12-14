@@ -176,35 +176,26 @@ def scrap_content(links, pause=0, balise='main'):
         if link[-3:] == "pdf":
             content.append(extract_text_from_pdf(link))
             continue
+
         try:
             response = requests.get(link)
         except:
-            content.append("Error")
+            content.append('Error')
             continue
+
         soup = BeautifulSoup(response.text, 'lxml')
 
-        else:
-            
-
-            try:
-                response = requests.get(link)
-            except:
-                content.append('Error')
-                continue
-
-            soup = BeautifulSoup(response.text, 'lxml')
-
-            main_section = soup.find('main')
-            
-            if main_section:
-
-                paragraphs = main_section.find_all('p')
-                full_text = "\n".join([p.get_text(strip=True) for p in paragraphs])
-                content.append(full_text)
-            else:
-                print(f"Pas de balise <main> trouvée sur {link}")
-                content.append("Error")
+        main_section = soup.find('main')
         
+        if main_section:
+
+            paragraphs = main_section.find_all('p')
+            full_text = "\n".join([p.get_text(strip=True) for p in paragraphs])
+            content.append(full_text)
+        else:
+            print(f"Pas de balise <main> trouvée sur {link}")
+            content.append("Error")
+            
         time.sleep(pause)
     
     return content
