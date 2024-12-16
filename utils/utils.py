@@ -9,3 +9,9 @@ def get_previous_values(date, n, df2):
     result = df2[(df2.index >= start_date) & (df2.index <= date)]['content'].tolist()
 
     return result
+
+
+def get_delta(df, column):
+    df[f'delta_{column}'] = df[column] - df[column].shift(1)
+    df[f"dummy_{column}"] = df[f'delta_{column}'].apply(lambda x: 1 if x > 0 else (0 if x == 0 else -1))
+    return df
