@@ -42,20 +42,13 @@ def parse_arguments():
     parser.add_argument('-y', '--years', nargs='*', type=int,
                         help=('Range of years to scrap. If only one value is',
                               'passed, it is considered as an upper bound.'))
+    parser.add_argument('--url', type=str, default="",
+                        help="If the links are already scrapped")
     parser.add_argument('--prep', action='store_true',
                         help='Decide wheter to process some data or not')
-    parser.add_argument('-i', '--inputs', type=str,
-                        help='CSV file containing the scrapped speechs')
     parser.add_argument('-o', '--output', type=str,
                         default='processed_data.csv',
                         help='Processed data file name')
-    parser.add_argument('--ngrams', nargs=2, type=int, default=[2, 2],
-                        help=('The lower and upper boundary of the range of',
-                              'n-values for different n-grams to be extracted'))
-    parser.add_argument('--min_df', type=float, default=.7,
-                        help=('When building the vocabulary of ngrams, ignore',
-                              'terms that have a document frequency strictly',
-                              'lower than the given threshold'))
     parser.add_argument("--topic", type=str, default="")
     parser.add_argument("--waiter", type=int, default=10, 
                         help=("How many time you want to wait when logging the page (the more you wait, the more articles you have)"))
@@ -64,6 +57,7 @@ def parse_arguments():
 
 def main():
     args = parse_arguments()
+    from_url = args.url
     scrap = args.scrap
     prep = args.prep
     file_name = args.file_name
@@ -75,9 +69,8 @@ def main():
     min_df = args.min_df
     topic = args.topic
     waiter = args.waiter
-
     
-    scrap_speechs(lang, years, file_name, True, topic, waiter)
+    scrap_speechs(lang, years, file_name, True, topic, waiter, from_url)
 
 
 

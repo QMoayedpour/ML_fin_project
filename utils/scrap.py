@@ -212,13 +212,17 @@ def export_to_csv(dataframe, file):
 
 
 def scrap_speechs(lang, years, file_name, write_csv=True, topic=False, waiter=10,
-                  url = 'https://www.ecb.europa.eu/press/pubbydate/html/index.en.html'):
+                  url = 'https://www.ecb.europa.eu/press/pubbydate/html/index.en.html',
+                  from_url=""):
     if topic:
         url+= f"?topic={topic}"
 
-    driver = create_webdriver(active_options=False)
-    page_source = get_page_source(url, pager=driver, scrolling=True, waiter=waiter)
-    data = get_urls(url, page_source)
+    if from_url:
+        data = pd.read_csv(from_url, orient='index')
+    else:
+        driver = create_webdriver(active_options=False)
+        page_source = get_page_source(url, pager=driver, scrolling=True, waiter=waiter)
+        data = get_urls(url, page_source)
     #data = choose(data, languages=lang, years=years) La fonction est a corriger (#TODO)
     articles = scrap_content(data.url)
     data["content"] = articles
