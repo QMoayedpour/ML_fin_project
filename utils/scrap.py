@@ -212,13 +212,14 @@ def export_to_csv(dataframe, file):
 
 
 def scrap_speechs(lang, years, file_name, write_csv=True, topic=False, waiter=10,
+                  from_url="",
                   url = 'https://www.ecb.europa.eu/press/pubbydate/html/index.en.html',
-                  from_url=""):
+                  ):
     if topic:
         url+= f"?topic={topic}"
 
     if from_url:
-        data = pd.read_csv(from_url, orient='index')
+        data = pd.read_csv(from_url)
     else:
         driver = create_webdriver(active_options=False)
         page_source = get_page_source(url, pager=driver, scrolling=True, waiter=waiter)

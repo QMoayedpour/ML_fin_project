@@ -63,10 +63,6 @@ def main():
     file_name = args.file_name
     lang = args.lang
     years = args.years
-    inputs = args.inputs
-    output = args.output
-    ngrams = args.ngrams
-    min_df = args.min_df
     topic = args.topic
     waiter = args.waiter
     
