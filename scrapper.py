@@ -1,11 +1,12 @@
 #! /usr/bin/env python3
 # coding: utf-8
 
-from utils.scrap import scrap_speechs
+from utils.scrap import scrap_speechs, create_webdriver, get_urls, get_page_source
 
 import argparse
 import logging as lg
 import os
+import json
 
 lg.basicConfig(level=lg.INFO)
 
@@ -33,8 +34,8 @@ def check_availability(file):
 
 def parse_arguments():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--scrap', action='store_true',
-                        help='Decide whether to scrap data or not')
+    parser.add_argument("--scrap_topics", default=False, type=bool,
+                        help="if you only want to scrap the topics")
     parser.add_argument('-n', '--file_name', type=str,
                         help='Scrapped data file name')
     parser.add_argument('-l', '--lang', nargs='*', type=str, default='en',
@@ -44,8 +45,6 @@ def parse_arguments():
                               'passed, it is considered as an upper bound.'))
     parser.add_argument('--url', type=str, default="",
                         help="If the links are already scrapped")
-    parser.add_argument('--prep', action='store_true',
-                        help='Decide wheter to process some data or not')
     parser.add_argument('-o', '--output', type=str,
                         default='processed_data.csv',
                         help='Processed data file name')
@@ -57,16 +56,30 @@ def parse_arguments():
 
 def main():
     args = parse_arguments()
+    scrap_topics = args.scrap_topics
     from_url = args.url
-    scrap = args.scrap
-    prep = args.prep
     file_name = args.file_name
     lang = args.lang
     years = args.years
     topic = args.topic
     waiter = args.waiter
-    
-    scrap_speechs(lang, years, file_name, True, topic, waiter, from_url)
+
+    if scrap_topics:
+        with open('./data/list_topics.json', 'r', encoding='utf-8') as file:
+            data = json.load(file)
+        list_topics = data["topics"]
+
+        url = "https://www.ecb.europa.eu/press/pubbydate/html/index.en.html?topic="
+
+        for topic in list_topics:
+
+            url_topic = url + topic.replace(" ", "%20")
+            driver = create_webdriver(active_options=False)
+            page_source = get_page_source(url_topic, pager=driver, scrolling=True, waiter=waiter)
+            data = get_urls(url_topic, page_source)
+            data.to_csv(f"./data/{topic}_url.csv")
+    else:
+        scrap_speechs(lang, years, file_name, True, topic, waiter, from_url)
 
 
 
