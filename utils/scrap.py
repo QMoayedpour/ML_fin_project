@@ -171,24 +171,29 @@ def extraire_texte_pdf_miner(lien):
 
 def scrap_content(links, pause=0, balise='main'):
     content = []
+    titles = []
+
     for link in tqdm(links):
-        #time.sleep(5)
+
         if link[-3:] == "pdf":
-            content.append(extract_text_from_pdf(link))
+            content.append(extraire_texte_pdf_miner(link))
+            titles.append("PDF Document")
             continue
 
         try:
             response = requests.get(link)
         except:
             content.append('Error')
+            titles.append("Error")
             continue
 
         soup = BeautifulSoup(response.text, 'lxml')
 
-        main_section = soup.find('main')
-        
-        if main_section:
+        title = soup.title.string.strip() if soup.title else "No Title Found"
+        titles.append(title)
 
+        main_section = soup.find('main')
+        if main_section:
             paragraphs = main_section.find_all('p')
             full_text = "\n".join([p.get_text(strip=True) for p in paragraphs])
             content.append(full_text)
@@ -198,7 +203,7 @@ def scrap_content(links, pause=0, balise='main'):
             
         time.sleep(pause)
     
-    return content
+    return content, titles
 
 
 
@@ -225,8 +230,9 @@ def scrap_speechs(lang, years, file_name, write_csv=True, topic=False, waiter=10
         page_source = get_page_source(url, pager=driver, scrolling=True, waiter=waiter)
         data = get_urls(url, page_source)
     #data = choose(data, languages=lang, years=years) La fonction est a corriger (#TODO)
-    articles = scrap_content(data.url)
+    articles, titles = scrap_content(data.url)
     data["content"] = articles
+    data["title"] = titles
     data.to_csv(f"./data/{file_name}")
     if write_csv:
         export_to_csv(data, file_name)
