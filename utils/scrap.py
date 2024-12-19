@@ -100,10 +100,11 @@ def get_page_source(url, pager, scrolling=False, close=False, waiter=60):
 
 
 def get_urls(url, page_source):
+    print(url)
     soup = BeautifulSoup(page_source, 'lxml')
     url_root = url.split('/press')[0]
-    contents = soup.find_all('dd')
-    dates = soup.find_all("dt")
+    contents = soup.find_all('dd')  # ou ajustez selon votre structure
+    dates = soup.find_all("dt")  # à ajuster si nécessaire
 
     d = {}
     index = 0
@@ -112,11 +113,18 @@ def get_urls(url, page_source):
         for lang in all_lang:
             if 'href' not in lang.attrs:
                 continue
-            d[index] = {'language': lang['lang'] if 'lang' in lang.attrs else "en",
-                        'url': url_root + lang["href"],
-                        'date': dt.text}
+
+            title_tag = lang.find_previous_sibling("div", class_="title") or lang
+            title = title_tag.text.strip() if title_tag else "No title"
+            
+            d[index] = {
+                'language': lang['lang'] if 'lang' in lang.attrs else "en",
+                'url': url_root + lang["href"],
+                'title': title,
+                'date': dt.text.strip()
+            }
             index += 1
-    
+
     pd.DataFrame.from_dict(d, orient='index').to_csv('data/url.csv')
 
     return pd.DataFrame.from_dict(d, orient='index')
@@ -232,7 +240,7 @@ def scrap_speechs(lang, years, file_name, write_csv=True, topic=False, waiter=10
     #data = choose(data, languages=lang, years=years) La fonction est a corriger (#TODO)
     articles, titles = scrap_content(data.url)
     data["content"] = articles
-    data["title"] = titles
+    data["title_2"] = titles
     data.to_csv(f"./data/{file_name}")
     if write_csv:
         export_to_csv(data, file_name)
