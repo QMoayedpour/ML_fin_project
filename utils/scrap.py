@@ -100,7 +100,6 @@ def get_page_source(url, pager, scrolling=False, close=False, waiter=60):
 
 
 def get_urls(url, page_source):
-    print(url)
     soup = BeautifulSoup(page_source, 'lxml')
     url_root = url.split('/press')[0]
     contents = soup.find_all('dd')
