@@ -103,8 +103,8 @@ def get_urls(url, page_source):
     print(url)
     soup = BeautifulSoup(page_source, 'lxml')
     url_root = url.split('/press')[0]
-    contents = soup.find_all('dd')  # ou ajustez selon votre structure
-    dates = soup.find_all("dt")  # à ajuster si nécessaire
+    contents = soup.find_all('dd')
+    dates = soup.find_all("dt")
 
     d = {}
     index = 0
@@ -116,7 +116,7 @@ def get_urls(url, page_source):
 
             title_tag = lang.find_previous_sibling("div", class_="title") or lang
             title = title_tag.text.strip() if title_tag else "No title"
-            
+
             d[index] = {
                 'language': lang['lang'] if 'lang' in lang.attrs else "en",
                 'url': url_root + lang["href"],
